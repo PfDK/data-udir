@@ -2,6 +2,8 @@
 
 Scripts for extracting json data from data.udir.no
 
+See the results here: www.erlendthune.com/lp/wordcloud
+
 Read more about data.udir.no here: http://data.udir.no/
 
 Example urls:
