@@ -32,20 +32,25 @@ result = getJsonFromUrl(url)
 
 # Loop through each of the elements in the 'result' Array & print some of their attributes.
 result.each do |laereplan|
-  request_uri = laereplan['url-data'] + ".json"
-  puts request_uri
-  url = "#{request_uri}#{request_query}"
-  puts url
-  # Actually fetch the contents of the remote URL as a String.
-  puts "Getting" + url
-  buffer = open(url).read
-  # Convert the String response into a plain old Ruby array. It is faster and saves you time compared to the standard Ruby libraries too.
-  result = JSON.parse(buffer)
+  puts laereplan['status']
+  if(!laereplan['status'].eql? "http://data.udir.no/kl06/status_utgaatt")
+      request_uri = laereplan['url-data'] + ".json"
+      puts request_uri
+      url = "#{request_uri}#{request_query}"
+      puts url
+      # Actually fetch the contents of the remote URL as a String.
+      puts "Getting" + url
+      buffer = open(url).read
+      # Convert the String response into a plain old Ruby array. It is faster and saves you time compared to the standard Ruby libraries too.
+      result = JSON.parse(buffer)
 
-  kode = result["kode"];
-  open(kode, 'wb') do |file|
-    file << buffer
-    file.close
-  end  
+      kode = result["kode"];
+      open(kode, 'wb') do |file|
+        file << buffer
+        file.close
+      end  
+  else
+    puts "Skip utgått læreplan.\n"
+  end
 end
 
