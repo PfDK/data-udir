@@ -1,3 +1,6 @@
+#Author    : Erlend Thune (erlend.thune@udir.no)
+#Purpose   : Finn digitale ferdigheter i alle fag og skriv de til filen dataudir.html
+
 #The code below is based on https://gist.githubusercontent.com/kyletcarlson/7911188/raw/34a01eaf7e4c6cdaeb0ac0f479cad9deae7311ff/json_response_handling_ruby.rb
 
 # http://ruby-doc.org/stdlib-2.0.0/libdoc/open-uri/rdoc/OpenURI.html 

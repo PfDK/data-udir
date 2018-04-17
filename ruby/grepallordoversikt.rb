@@ -8,7 +8,9 @@ require 'json'
 require 'pp'
 require_relative 'udirutility'
 
-OpenFile("#{$outdir}alle.js")
+alleordjsFileName = "#{$outdir}alle.js"
+puts alleordjsFileName
+OpenFile(alleordjsFileName)
 htmlFileName = sprintf "alle.html"
 jsFileName = sprintf "alle.js"
 

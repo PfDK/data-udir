@@ -1,3 +1,9 @@
+#Author    : Erlend Thune (erlend.thune@udir.no)
+#Purpose   : Finn alle ord i læreplanene i mappen som scriptet kjøres fra. 
+#            Sorter ordene i alfabetisk rekkefølge og skriv ut 
+#            Hvilke læreplaner som bruker ordene under hvert ord.
+#Dependency: Avhenger av at alle læreplanene er lastet ned som fil 
+
 #The code below is based on https://gist.githubusercontent.com/kyletcarlson/7911188/raw/34a01eaf7e4c6cdaeb0ac0f479cad9deae7311ff/json_response_handling_ruby.rb
 
 # http://ruby-doc.org/stdlib-2.0.0/libdoc/open-uri/rdoc/OpenURI.html 
@@ -6,6 +12,8 @@ require 'open-uri'
 require 'json'
 # http://stackoverflow.com/questions/9008847/what-is-difference-between-p-and-pp
 require 'pp'
+
+#Funksjoner som brukes av flere script ligger i denne ruby filen.
 require_relative 'udirutility'
 
 $letters = []

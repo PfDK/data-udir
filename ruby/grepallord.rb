@@ -1,3 +1,8 @@
+#Author    : Erlend Thune (erlend.thune@udir.no)
+#Purpose   : Finn alle ord i læreplanene i mappen som scriptet kjøres fra. 
+#            Lag input filer for ordskyer og lag html filer som viser ordskyene. 
+#            Lag index.html fil som lenker til alle ordskyene.
+#Dependency: Avhenger av at alle læreplanene er lastet ned som fil 
 #The code below is based on https://gist.githubusercontent.com/kyletcarlson/7911188/raw/34a01eaf7e4c6cdaeb0ac0f479cad9deae7311ff/json_response_handling_ruby.rb
 
 # http://ruby-doc.org/stdlib-2.0.0/libdoc/open-uri/rdoc/OpenURI.html 
@@ -10,7 +15,6 @@ require_relative 'udirutility'
 
 $file = nil
 $words = nil
-$outdir = "../../../d3-wordcloud/udir/"
 
 def OpenFile(filename)
 	$file = File.open( filename,"w" )

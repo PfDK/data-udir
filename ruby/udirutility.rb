@@ -1,14 +1,32 @@
+#Author: Erlend Thune
+#Mail:   erlend.thune@udir.no
+#Purpose:Nyttige funksjoner for å analysere læreplaner.
+
+#Max antall ord som skal vises i ordskyen.
 $maxWordsInWordCloud = 100
+
+#Htmlfiler genereres i denne mappen. Den er relativ til der læreplanfilene ligger.
+$outdir = "../ordskyerhtml/"
+
+#Ignorer disse tegnene. For å unngå at et ord blir forskjellig fra et annet dersom det f.eks. har et komma etter seg, så må 
+#disse tegnene ignoreres.
 $filterLetters = ',.\/\-\')(+\’”"«–§π'
+
+#Ignorer disse ordene. De blir brukt ofte men er ikke så interessante...
 $filterWords = ["a", "et", "én", "en", "det", "andre", "dei", "eller", "eit", "kan", "bm.:","fra", "etter", "desse", "to", "den", "å", "han", "ein", "eitt", "ved", 
                 "som", "med", "på", "i", "til", "og", "for", "av", "om", 
                "er", "kva", "hos", "frå"] 
 
+#Dersom man ønsker å gi mindre/mer vekt til enkelte ord kan man legge de inn i arrayene nedenfor.
 $unimportantWords = []
 $importantWords = []
+
+#Resultatfiler blir skrevet til denne mappen
+$outdir = "../ordskyerhtml/"
+
+#Begynn med blanke ark.
 $file = nil
 $words = nil
-$outdir = "../../../d3-wordcloud/udir/"
 
 def OpenFile(filename)
 	$file = File.open( filename,"w" )
@@ -96,6 +114,8 @@ def getTittel(tittelArr)
     end
   end
 end
+
+
 def handleKompetansemaalForWordCloud(s)
     s.each do |m|
         tittel = m["tittel"]
@@ -115,14 +135,14 @@ def handleKompetansemaalForWordCloud(s)
         end
     end
 end
+
 def handleKompetansemaalsettForWordCloud(gfs)
     gfs.each do |s|
       handleKompetansemaalForWordCloud(s["kompetansemaal"])  
     end
 end
 
-
-
+#Lag en html fil som viser ordene i jsFileName som en ordsky.
 def createHtmlFileForWordCloud(htmlFileName,jsFileName,name,url)
     filename = "#{$outdir}#{htmlFileName}"
 	file = File.open( filename,"w" )
@@ -180,6 +200,8 @@ def GetFirstLetter(ord)
     end
     return l
 end
+
+
 def printWordsForWordCloud(htmlFile)
     sz = $words.size
     no = 0
