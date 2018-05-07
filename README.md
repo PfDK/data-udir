@@ -1,20 +1,21 @@
 # data-udir
 
-Scripts for å hente ut data fra data.udir.no og lage presentasjoner av innholdet for web.
+Scripts for å hente ut data fra data.udir.no og lage presentasjoner av innholdet for web. Vi anbefaler deg å ta kurset "Grep" i kursportalen til UDIR, [kurs.udir.no](https://kurs.udir.no)
 
-# Søk i læreplanene med javascript og html
-I mappen (https://PfDK.github.io/data-udir-no/eksempler/) finner du eksempler med html og javascript for å f.eks. søke etter ord og setninger i læreplanene.
+# Eksempler på hva du kan gjøre med javascript og html
+I mappen [https://PfDK.github.io/data-udir-no/eksempler/](https://PfDK.github.io/data-udir-no/eksempler/) finner du eksempler med html og javascript for å f.eks. søke etter ord og setninger i læreplanene.
 
-# Slik kan du lage ordskyer av læreplanene
+# Eksempler på hva du kan gjøre med ruby, javascript og html
 
-Ved å følge instruksjonene nedenfor kan du lage ordskyer over alle læreplanene. Resultatet ser slik ut: [læreplanene som ordskyer](https://www.erlendthune.com/lp/wordcloud)
+Det er totalt mange hundre læreplaner. Dersom man skal analysere innholdet i alle disse kan det være tidkrevende å hente ned disse fra Grep. I stedet kan man laste de ned en gang, gjøre nødvendig analyse, lagre resultatet av analysen og presentere denne. Ruby er et programmeringspråk som enkelt lar deg hente ned data og analysere disse.
 
-### ruby
-Siden det ville tatt mye tid å hente ned alle læreplanene og analysere disse hver gang man ønsker å lage ordskyene, henter jeg i stedet først ned læreplanene fra Grep ved hjelp av programmeringsspråket ruby.
+Nedenfor viser jeg hvordan jeg lastet ned alle læreplanene med Ruby for å finne ut hvilke ord som blir brukt mest, og hvordan jeg presenterte resultatet som ordsky. Resultatet ser slik ut: [læreplanene som ordskyer](https://www.erlendthune.com/lp/wordcloud)
+
+## Ruby
 
 Dersom du er på mac har du allerede programmet ruby installert. Dersom du er på pc kan du installere det [https://www.ruby-lang.org/en/documentation/installation/#rubyinstaller](herfra).
 
-## Fremgangsmåte med ruby
+## Last ned nødvendig kode
 
 - Gå inn på https://github.com/wvengen/d3-wordcloud og velg "Clone or download->Download ZIP".
 - Pakk ut zip-filen.
@@ -58,7 +59,6 @@ Det første scriptet jeg lagde for å se om jeg klarte å hente ut data fra Grep
 ```ruby dataudir.rb```
 
 Så opprettes filen `dataudir.html` som lister opp de digitale ferdighetene man skal kunne i alle fag.
-
 
 
 # data fra udir
