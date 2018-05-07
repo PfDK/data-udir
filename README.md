@@ -3,7 +3,13 @@
 Scripts for å hente ut data fra data.udir.no og lage presentasjoner av innholdet for web. Vi anbefaler deg å ta kurset "Grep" i kursportalen til UDIR, [kurs.udir.no](https://kurs.udir.no)
 
 # Eksempler på hva du kan gjøre med javascript og html
-I mappen [https://PfDK.github.io/data-udir-no/eksempler/](https://PfDK.github.io/data-udir-no/eksempler/) finner du eksempler med html og javascript for å f.eks. søke etter ord og setninger i læreplanene.
+I mappen [https://github.com/PfDK/PfDK.github.io/tree/master/data-udir-no/eksempler](https://github.com/PfDK/PfDK.github.io/tree/master/data-udir-no/eksempler) finner du kildekoden til eksempler med html og javascript for å f.eks. søke etter ord og setninger i læreplanene, vise en læreplan som en ordsky og vise felles ord på tvers av læreplaner som ordsky. Sistnevnte eksempel kan f.eks. egne seg til å finne tverrfaglige muligheter.
+
+Se eksempelkoden live her:
+
+- [Søk i læreplanene](PfDK.github.io/data-udir-no/eksempler/soek/sparql.html)
+- [Læreplan som ordsky](https://pfdk.github.io/data-udir-no/eksempler/ordsky/ordsky.html)
+- [Tverrfaglighet som ordsky](https://pfdk.github.io/data-udir-no/eksempler/tverrfaglig/tverrfaglig.html)
 
 # Eksempler på hva du kan gjøre med ruby, javascript og html
 
