@@ -136,9 +136,11 @@ def handleKompetansemaalForWordCloud(s)
     end
 end
 
-def handleKompetansemaalsettForWordCloud(gfs)
+def handleKompetansemaalsettForWordCloud(gfs, trinn)
     gfs.each do |s|
-      handleKompetansemaalForWordCloud(s["kompetansemaal"])  
+      if(s["etter-aarstrinn"][0]["kode"] == trinn)
+        handleKompetansemaalForWordCloud(s["kompetansemaal"])  
+      end
     end
 end
 

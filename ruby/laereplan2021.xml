@@ -1,0 +1,952 @@
+<lareplan>
+    <lareplanurl>https://www.udir.no/kl06/ADI2-02</lareplanurl>
+    <fag navn="ANLEGGSGARTNER- OG IDRETTSANLEGGSFAG - FELLES PROGRAMFAG VG2 - (ADI2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/AGR3-01</lareplanurl>
+    <fag navn="FORSØKSVG3/OPPLÆRING I BEDRIFT - LANDBRUKSFAG - (AGR3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/AKT2-03</lareplanurl>
+    <fag navn="AKTIVITØR - FELLES PROGRAMFAG VG2 - (AKT2-03 )"/>
+    <lareplanurl>https://www.udir.no/kl06/AKT3-02</lareplanurl>
+    <fag navn="AKTIVITØRFAGET VG3 / OPPLÆRING I BEDRIFT - (AKT3-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/AKV2-02</lareplanurl>
+    <fag navn="AKVAKULTUR - FELLES PROGRAMFAG VG2 - (AKV2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/AKV3-01</lareplanurl>
+    <fag navn="AKVAKULTURFAGET VG3 / OPPLÆRING I BEDRIFT - (AKV3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/ALU3-01</lareplanurl>
+    <fag navn="ALUMINIUMSKONSTRUKSJONSFAGET VG3 / OPPLÆRING I BEDRIFT - (ALU3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/AMB2-02</lareplanurl>
+    <fag navn="AMBULANSEFAG - FELLES PROGRAMFAG VG2 - (AMB2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/AMB3-01</lareplanurl>
+    <fag navn="AMBULANSEFAGET VG3 / OPPLÆRING I BEDRIFT - (AMB3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/AMF3-01</lareplanurl>
+    <fag navn="ANLEGGSMASKINFØRERFAGET VG3 / OPPLÆRING I BEDRIFT - (AMF3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/AMK2-02</lareplanurl>
+    <fag navn="ARBEIDSMASKINER - FELLES PROGRAMFAG VG2 - (AMK2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/AMM3-02</lareplanurl>
+    <fag navn="ANLEGGSMASKINMEKANIKERFAGET VG3 / OPPLÆRING I SKOLE - (AMM3-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/ANG3-01</lareplanurl>
+    <fag navn="ANLEGGSGARTNERFAGET VG3 / OPPLÆRING I BEDRIFT - (ANG3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/ANL2-02</lareplanurl>
+    <fag navn="ANLEGGSTEKNIKK - FELLES PROGRAMFAG VG2 - (ANL2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/APO3-02</lareplanurl>
+    <fag navn="APOTEKTEKNIKK - FELLES PROGRAMFAG VG3 - (APO3-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/ARB1-02</lareplanurl>
+    <fag navn="ARBEIDSLIVSFAG PÅ UNGDOMSTRINNET - (ARB1-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/ASF3-01</lareplanurl>
+    <fag navn="ASFALTFAGET VG3 / OPPLÆRING I BEDRIFT - (ASF3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/ASK1-02</lareplanurl>
+    <fag navn="ANTIKKENS SPRÅK OG KULTUR - PROGRAMFAG I UTDANNINGSPROGRAM FOR STUDIESPESIALISERING - (ASK1-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/AUT2-02</lareplanurl>
+    <fag navn="AUTOMATISERING - FELLES PROGRAMFAG VG2 - (AUT2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/AUT3-03</lareplanurl>
+    <fag navn="AUTOMATISERINGSFAGET - FELLES PROGRAMFAG VG3 - (AUT3-03 )"/>
+    <lareplanurl>https://www.udir.no/kl06/AVI3-01</lareplanurl>
+    <fag navn="AVIONIKERFAGET - FELLES PROGRAMFAG VG3 - (AVI3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/AVI4-01</lareplanurl>
+    <fag navn="AVIONIKERFAGET OPPLÆRING I BEDRIFT - (AVI4-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/ELE3-02</lareplanurl>
+    <fag navn="ELEKTRIKERFAGET VG3 / OPPLÆRING I BEDRIFT - (ELE3-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/EOP3-02</lareplanurl>
+    <fag navn="ENERGIOPERATØRFAGET VG3 / OPPLÆRING I BEDRIFT - (EOP3-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BAK3-01</lareplanurl>
+    <fag navn="BAKERFAGET VG3 / OPPLÆRING I BEDRIFT - (BAK3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BAN3-01</lareplanurl>
+    <fag navn="BANEMONTØRFAGET VG3 / OPPLÆRING I BEDRIFT - (BAN3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BBF2-02</lareplanurl>
+    <fag navn="BÅTBYGGERFAG - FELLES PROGRAMFAG VG2 - (BBF2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BDR3-01</lareplanurl>
+    <fag navn="BYGGDRIFTERFAGET - SÆRLØP VG2 OG VG3 / OPPLÆRING I BEDRIFT - (BDR3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BET3-01</lareplanurl>
+    <fag navn="BETONGFAGET VG3 / OPPLÆRING I BEDRIFT - (BET3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BIO1-01</lareplanurl>
+    <fag navn="BIOLOGI - PROGRAMFAG I UTDANNINGSPROGRAM FOR STUDIESPESIALISERING - (BIO1-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BKF3-01</lareplanurl>
+    <fag navn="BØKKARFAGET VG3 / OPPLÆRING I BEDRIFT - (BKF3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BKO3-01</lareplanurl>
+    <fag navn="BRØNNFAGET, KOMPLETTERING VG3 / OPPLÆRING I BEDRIFT - (BKO3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BKV3-01</lareplanurl>
+    <fag navn="BRØNNFAGET, KVEILERØROPERASJONER VG3 / OPPLÆRING I BEDRIFT - (BKV3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BLA3-01</lareplanurl>
+    <fag navn="BILLAKKERERFAGET VG3 / OPPLÆRING I BEDRIFT - (BLA3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BLD2-02</lareplanurl>
+    <fag navn="BLOMSTERDEKORATØR - FELLES PROGRAMFAG VG2 - (BLD2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BLD3-02</lareplanurl>
+    <fag navn="BLOMSTERDEKORATØRFAGET VG3 / OPPLÆRING I BEDRIFT - (BLD3-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BLK2-02</lareplanurl>
+    <fag navn="BILSKADE, LAKK OG KAROSSERI - FELLES PROGRAMFAG VG2 - (BLK2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BLY3-01</lareplanurl>
+    <fag navn="BLYGLASSHÅNDVERKERFAGET - SÆRLØP VG2 OG VG3 / OPPLÆRING I BEDRIFT - (BLY3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BMF2-02</lareplanurl>
+    <fag navn="BØRSEMAKAR - FELLES PROGRAMFAG VG2 - (BMF2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BMF3-01</lareplanurl>
+    <fag navn="BØRSEMAKARFAGET VG3 / OPPLÆRING I BEDRIFT - (BMF3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BMK3-02</lareplanurl>
+    <fag navn="BILFAGET, LETTE KJØRETØY VG3 / OPPLÆRING I BEDRIFT - (BMK3-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BNT3-01</lareplanurl>
+    <fag navn="BUNTMAKERFAGET VG3 / OPPLÆRING I BEDRIFT - (BNT3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/GPT3-01</lareplanurl>
+    <fag navn="GRAFISK PRODUKSJONSTEKNIKK VG3 / OPPLÆRING I BEDRIFT - (GPT3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BOR3-01</lareplanurl>
+    <fag navn="BOREOPERATØRFAGET VG3 / OPPLÆRING I BEDRIFT - (BOR3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BRE3-01</lareplanurl>
+    <fag navn="BRØNNFAGET, ELEKTRISKE KABELOPERASJONER VG3 / OPPLÆRING I BEDRIFT - (BRE3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BRH3-01</lareplanurl>
+    <fag navn="BRØNNFAGET, HAVBUNNSINSTALLASJONER VG3 / OPPLÆRING I BEDRIFT - (BRH3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BRM3-01</lareplanurl>
+    <fag navn="BRØNNFAGET, MEKANISKE KABELOPERASJONER VG3 / OPPLÆRING I BEDRIFT - (BRM3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BRO3-01</lareplanurl>
+    <fag navn="BRØNN- OG BOREFAGET VG3 / OPPLÆRING I BEDRIFT - (BRO3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BRS3-01</lareplanurl>
+    <fag navn="BRØNNFAGET, SEMENTERING VG3 / OPPLÆRING I BEDRIFT - (BRS3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BRT2-03</lareplanurl>
+    <fag navn="BRØNNTEKNIKK - FELLES PROGRAMFAG VG2 - (BRT2-03 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BSK3-01</lareplanurl>
+    <fag navn="BILSKADEFAGET VG3 / OPPLÆRING I BEDRIFT - (BSK3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BTK3-01</lareplanurl>
+    <fag navn="BILFAGET, TUNGE KJØRETØY VG3 / OPPLÆRING I BEDRIFT - (BTK3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BUA2-02</lareplanurl>
+    <fag navn="BARNE- OG UNGDOMSARBEIDERFAG - FELLES PROGRAMFAG VG2 - (BUA2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BUA3-01</lareplanurl>
+    <fag navn="BARNE- OG UNGDOMSARBEIDERFAGET VG3 / OPPLÆRING I BEDRIFT - (BUA3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BUN3-01</lareplanurl>
+    <fag navn="BUNADTILVERKARFAGET VG3 / OPPLÆRING I BEDRIFT - (BUN3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BUT3-01</lareplanurl>
+    <fag navn="BUTIKKSLAKTARFAGET VG3 / OPPLÆRING I BEDRIFT - (BUT3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/BYG2-02</lareplanurl>
+    <fag navn="BYGGTEKNIKK - FELLES PROGRAMFAG VG2 - (BYG2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/CNC3-01</lareplanurl>
+    <fag navn="CNC-MASKINERINGSFAGET VG3 / OPPLÆRING I BEDRIFT - (CNC3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/DAN1-01</lareplanurl>
+    <fag navn="GRUNNTRENING I DANS - PROGRAMFAG I UTDANNINGSPROGRAM FOR MUSIKK, DANS, DRAMA, DANS - (DAN1-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/DAN2-01</lareplanurl>
+    <fag navn="SCENISK DANS - PROGRAMFAG I UTDANNINGSPROGRAM FOR MUSIKK, DANS, DRAMA, DANS - (DAN2-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/DAN3-01</lareplanurl>
+    <fag navn="DANS I PERSPEKTIV - PROGRAMFAG I UTDANNINGSPROGRAM FOR MUSIKK, DANS, DRAMA, DANS - (DAN3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/DAN4-01</lareplanurl>
+    <fag navn="SCENISK DANS FORDYPNING - PROGRAMFAG I UTDANNINGSPROGRAM FOR MUSIKK, DANS, DRAMA, DANS - (DAN4-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/DAT3-02</lareplanurl>
+    <fag navn="DATAELEKTRONIKARFAGET - FELLES PROGRAMFAG VG3 - (DAT3-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/DDU2-02</lareplanurl>
+    <fag navn="DESIGN OG DUODJI/DUODJE/DUEDTIE - FELLES PROGRAMFAG VG2 - (DDU2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/DEL2-02</lareplanurl>
+    <fag navn="DATA OG ELEKTRONIKK - FELLES PROGRAMFAG VG2 - (DEL2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/DGH2-02</lareplanurl>
+    <fag navn="DESIGN OG GULLSMEDHÅNDVERK - FELLES PROGRAMFAG VG2 - (DGH2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/DKO3-01</lareplanurl>
+    <fag navn="DIMENSJONSKONTROLLFAGET VG3 / OPPLÆRING I BEDRIFT - (DKO3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MUS3-01</lareplanurl>
+    <fag navn="DRAMA OG RYTMIKK FOR HØRSELSHEMMEDE - (MUS3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/ENG2-03</lareplanurl>
+    <fag navn="ENGELSK FOR HØRSELSHEMMEDE - (ENG2-03 )"/>
+    <lareplanurl>https://www.udir.no/kl06/NOR5-04</lareplanurl>
+    <fag navn="NORSK FOR HØRSELSHEMMEDE - (NOR5-04 )"/>
+    <lareplanurl>https://www.udir.no/kl06/NOR4-04</lareplanurl>
+    <fag navn="NORSK TEGNSPRÅK - (NOR4-04 )"/>
+    <lareplanurl>https://www.udir.no/kl06/DRA1-01</lareplanurl>
+    <fag navn="TEATER OG BEVEGELSE - PROGRAMFAG I UTDANNINGSPROGRAM FOR MUSIKK, DANS, DRAMA, DRAMA - (DRA1-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/DRA2-01</lareplanurl>
+    <fag navn="TEATERPRODUKSJON - PROGRAMFAG I UTDANNINGSPROGRAM FOR MUSIKK, DANS, DRAMA, DRAMA - (DRA2-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/DRA3-01</lareplanurl>
+    <fag navn="TEATER I PERSPEKTIV - PROGRAMFAG I UTDANNINGSPROGRAM FOR MUSIKK, DANS, DRAMA, DRAMA - (DRA3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/DRA4-01</lareplanurl>
+    <fag navn="DRAMA OG SAMFUNN - PROGRAMFAG I UTDANNINGSPROGRAM FOR MUSIKK, DANS, DRAMA, DRAMA - (DRA4-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/DRA5-01</lareplanurl>
+    <fag navn="TEATERPRODUKSJON FORDYPNING - PROGRAMFAG I UTDANNINGSPROGRAM FOR MUSIKK, DANS, DRAMA, DRAMA - (DRA5-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/DTE2-02</lareplanurl>
+    <fag navn="DESIGN OG TEKSTIL - FELLES PROGRAMFAG - (DTE2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/DTR2-02</lareplanurl>
+    <fag navn="DESIGN OG TREARBEID - FELLES PROGRAMFAG VG2 - (DTR2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/ELE2-02</lareplanurl>
+    <fag navn="ELENERGI - FELLES PROGRAMFAG VG2 - (ELE2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/EMO3-01</lareplanurl>
+    <fag navn="ENERGIMONTØRFAGET VG3 / OPPLÆRING I BEDRIFT - (EMO3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/ENG1-03</lareplanurl>
+    <fag navn="ENGELSK - (ENG1-03 )"/>
+    <lareplanurl>https://www.udir.no/kl06/ENG3-01</lareplanurl>
+    <fag navn="FORDYPNING I ENGELSK - (ENG3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/ENG4-01</lareplanurl>
+    <fag navn="ENGELSK - PROGRAMFAG I UTDANNINGSPROGRAM FOR STUDIESPESIALISERING - (ENG4-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/ENT1-02</lareplanurl>
+    <fag navn="ENTREPRENØRSKAP OG BEDRIFTSUTVIKLING - PROGRAMFAG I UTDANNINGSPROGRAM FOR STUDIESPESIALISERING - (ENT1-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/ERF3-01</lareplanurl>
+    <fag navn="ELEKTROREPARATØRFAGET VG3 / OPPLÆRING I BEDRIFT - (ERF3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/FEI3-01</lareplanurl>
+    <fag navn="FEIERFAGET - SÆRLØP VG2 OG VG3 / OPPLÆRING I BEDRIFT - (FEI3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/FFA2-02</lareplanurl>
+    <fag navn="FISKE OG FANGST - FELLES PROGRAMFAG VG2 - (FFA2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/FFA3-02</lareplanurl>
+    <fag navn="FISKE OG FANGST VG3 / OPPLÆRING I BEDRIFT - (FFA3-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/FGY3-01</lareplanurl>
+    <fag navn="FORGYLLERFAGET - SÆRLØP VG2 OG VG3 / OPPLÆRING I BEDRIFT - (FGY3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/FIL3-01</lareplanurl>
+    <fag navn="FILIGRANSSØLVSMEDFAGET VG3 / OPPLÆRING I BEDRIFT - (FIL3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/FIN1-03</lareplanurl>
+    <fag navn="KVENSK ELLER FINSK SOM 2. SPRÅK - (FIN1-03 )"/>
+    <lareplanurl>https://www.udir.no/kl06/FIR3-01</lareplanurl>
+    <fag navn="INDUSTRITEKSTILFAGET, FISKEREISKAPAR VG3 / OPPLÆRING I BEDRIFT - (FIR3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/FJE3-02</lareplanurl>
+    <fag navn="FJELL- OG BERGVERKSFAGET VG3 / OPPLÆRING I BEDRIFT - (FJE3-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/FLY2-02</lareplanurl>
+    <fag navn="FLYFAG - FELLES PROGRAMFAG VG2 - (FLY2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/FLY3-01</lareplanurl>
+    <fag navn="FLYFAG - FELLES PROGRAMFAG VG3 - (FLY3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/FMK3-01</lareplanurl>
+    <fag navn="FINMEKANIKERFAGET VG3 / OPPLÆRING I BEDRIFT - (FMK3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/FMO4-01</lareplanurl>
+    <fag navn="FLYMOTORMEKANIKERFAGET OPPLÆRING I BEDRIFT - (FMO4-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/KDA7-01</lareplanurl>
+    <fag navn="SAMISK VISUELL KULTUR - VALFRITT PROGRAMFAG I UTDANNINGSPROGRAM FOR KUNST, DESIGN OG ARKITEKTUR - (KDA7-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/LGA4-01</lareplanurl>
+    <fag navn="FORVALTNING OG DRIFT – FELLES PROGRAMFAG I UTDANNINGSPROGRAMMET FOR NATURBRUK, LANDBRUK OG GARTNERNÆRING. FORSØK. - (LGA4-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/LGA6-01</lareplanurl>
+    <fag navn="GARTNERNÆRING – VALGFRITT PROGRAMFAG I UTDANNINGSPROGRAMMET FOR NATURBRUK, LANDBRUK OG GARTNERNÆRING. FORSØK. - (LGA6-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/LGA5-01</lareplanurl>
+    <fag navn="LANDBRUK – VALGFRITT PROGRAMFAG I UTDANNINGSPROGRAMMET FOR NATURBRUK, LANDBRUK OG GARTNERNÆRING. FORSØK. - (LGA5-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/LGA3-01</lareplanurl>
+    <fag navn="PRODUKSJON, MILJØ OG KVALITET – FELLES PROGRAMFAG I UTDANNINGSPROGRAMMET FOR NATURBRUK, LANDBRUK OG GARTNERNÆRING. FORSØK. - (LGA3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/GAR3-01</lareplanurl>
+    <fag navn="FORSØKSVG3/OPPLÆRING I BEDRIFT - GARTNERNÆRING - (GAR3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/POK2-01</lareplanurl>
+    <fag navn="PLAST OG KOMPOSITTFAGET - FELLES PROGRAMFAG VG2 - FORSØK - (POK2-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/FOT2-02</lareplanurl>
+    <fag navn="FOTTERAPI OG ORTOPEDITEKNIKK - FELLES PROGRAMFAG VG2 - (FOT2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/FOT3-02</lareplanurl>
+    <fag navn="FOTTERAPI - FELLES PROGRAMFAG VG3 - (FOT3-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/FRI2-02</lareplanurl>
+    <fag navn="FRISØR - FELLES PROGRAMFAG VG2 - (FRI2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/FRI3-01</lareplanurl>
+    <fag navn="FRISØRFAGET VG3 / OPPLÆRING I BEDRIFT - (FRI3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/FSP1-01</lareplanurl>
+    <fag navn="FREMMEDSPRÅK - (FSP1-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/FST4-01</lareplanurl>
+    <fag navn="FLYSTRUKTURMEKANIKERFAGET OPPLÆRING I BEDRIFT - (FST4-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/FSY4-01</lareplanurl>
+    <fag navn="FLYSYSTEMMEKANIKERFAGET OPPLÆRING I BEDRIFT - (FSY4-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/FTG3-01</lareplanurl>
+    <fag navn="FOTOGRAFFAGET VG3 / OPPLÆRING I BEDRIFT - (FTG3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/FUO3-01</lareplanurl>
+    <fag navn="FJERNSTYRTE UNDERVANNSOPERASJONER VG3 / OPPLÆRING I BEDRIFT - (FUO3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/FYS1-01</lareplanurl>
+    <fag navn="FYSIKK - PROGRAMFAG I UTDANNINGSPROGRAM FOR STUDIESPESIALISERING - (FYS1-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/GAN3-02</lareplanurl>
+    <fag navn="GARTNERNÆRING - FELLES PROGRAMFAG VG3 - (GAN3-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/GEO1-01</lareplanurl>
+    <fag navn="GEOGRAFI - FELLESFAG I STUDIEFØREBUANDE UTDANNINGSPROGRAM - (GEO1-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/GEO2-01</lareplanurl>
+    <fag navn="GEOGRAFI, SAMISK PLAN, FELLESFAG I STUDIEFORBEREDENDE UTDANNINGSPROGRAM - (GEO2-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/GFG1-01</lareplanurl>
+    <fag navn="GEOFAG - PROGRAMFAG I UTDANNINGSPROGRAM FOR STUDIESPESIALISERING - (GFG1-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/GIP3-01</lareplanurl>
+    <fag navn="GIPSMAKERFAGET - SÆRLØP VG2 OG VG3 / OPPLÆRING I BEDRIFT - (GIP3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/GJE3-01</lareplanurl>
+    <fag navn="GJENVINNINGSFAGET - SÆRLØP VG2 OG VG3 / OPPLÆRING I BEDRIFT - (GJE3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/GLA3-01</lareplanurl>
+    <fag navn="GLASSFAGET - SÆRLØP VG2 OG VG3 / OPPLÆRING I BEDRIFT - (GLA3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/GLH3-01</lareplanurl>
+    <fag navn="GLASSHÅNDVERKERFAGET - SÆRLØP VG2 OG VG3 / OPPLÆRING I BEDRIFT - (GLH3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/GRF3-01</lareplanurl>
+    <fag navn="GRAVØRFAGET - SÆRLØP VG2 OG VG3 / OPPLÆRING I BEDRIFT - (GRF3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/GRV3-01</lareplanurl>
+    <fag navn="GARVERIFAGET - SÆRLØP VG2 OG VG3 / OPPLÆRING I BEDRIFT - (GRV3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/GTL3-01</lareplanurl>
+    <fag navn="GJØRTLERFAGET - SÆRLØP VG2 OG VG3 / OPPLÆRING I BEDRIFT - (GTL3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/GUL3-01</lareplanurl>
+    <fag navn="GULLSMEDFAGET VG3 / OPPLÆRING I BEDRIFT - (GUL3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/HBB3-01</lareplanurl>
+    <fag navn="HÅNDBOKBINDERFAGET - SÆRLØP VG2 OG VG3 / OPPLÆRING I BEDRIFT - (HBB3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/HEA2-03</lareplanurl>
+    <fag navn="HELSEARBEIDERFAG - FELLES PROGRAMFAG VG2 - (HEA2-03 )"/>
+    <lareplanurl>https://www.udir.no/kl06/HEA3-02</lareplanurl>
+    <fag navn="HELSEARBEIDERFAGET VG3 / OPPLÆRING I BEDRIFT - (HEA3-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/HEI3-01</lareplanurl>
+    <fag navn="HEISMONTØRFAGET VG3 / OPPLÆRING I BEDRIFT - (HEI3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/HES2-02</lareplanurl>
+    <fag navn="HELSESERVICEFAG - FELLES PROGRAMFAG VG2 - (HES2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/HHO2-02</lareplanurl>
+    <fag navn="HESTE- OG HOVSLAGERFAG - FELLES PROGRAMFAG VG2 - (HHO2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/HIF1-02</lareplanurl>
+    <fag navn="HISTORIE OG FILOSOFI - PROGRAMFAG - (HIF1-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/HIS1-02</lareplanurl>
+    <fag navn="HISTORIE - FELLESFAG I STUDIEFORBEREDENDE UTDANNINGSPROGRAM - (HIS1-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/HIS2-02</lareplanurl>
+    <fag navn="HISTORIE, SAMISK PLAN, FELLESFAG I STUDIEFORBEREDENDE UTDANNINGSPROGRAM - (HIS2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/HJU3-01</lareplanurl>
+    <fag navn="HJULUTRUSTNINGSFAGET VG3 / OPPLÆRING I BEDRIFT - (HJU3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/HMD3-01</lareplanurl>
+    <fag navn="HORN-, BEIN- OG METALLDUODJIFAGET VG3 / OPPLÆRING I BEDRIFT - (HMD3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/HOV3-01</lareplanurl>
+    <fag navn="HOVSLAGARFAGET VG3 / OPPLÆRING I BEDRIFT - (HOV3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/HSE3-02</lareplanurl>
+    <fag navn="HELSESEKRETÆR - FELLES PROGRAMFAG VG3 - (HSE3-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/HSK3-01</lareplanurl>
+    <fag navn="HERRESKREDDERFAGET VG3 / OPPLÆRING I BEDRIFT - (HSK3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/HST3-01</lareplanurl>
+    <fag navn="HESTEFAGET VG3 / OPPLÆRING I BEDRIFT - (HST3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/HUD2-02</lareplanurl>
+    <fag navn="HUDPLEIE - FELLES PROGRAMFAG VG2 - (HUD2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/HUD3-02</lareplanurl>
+    <fag navn="HUDPLEIAR - FELLES PROGRAMFAG VG3 - (HUD3-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/HVF3-01</lareplanurl>
+    <fag navn="HÅNDVEVERFAGET VG3 / OPPLÆRING I BEDRIFT - (HVF3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/IAN3-01</lareplanurl>
+    <fag navn="IDRETTSANLEGGSFAGET VG3 / OPPLÆRING I BEDRIFT - (IAN3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/IDR1-01</lareplanurl>
+    <fag navn="AKTIVITETSLÆRE - FELLES PROGRAMFAG I UTDANNINGSPROGRAM FOR IDRETTSFAG - (IDR1-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/IDR2-02</lareplanurl>
+    <fag navn="TRENINGSLÆRE - FELLES PROGRAMFAG I UTDANNINGSPROGRAM FOR IDRETTSFAG - (IDR2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/IDR3-01</lareplanurl>
+    <fag navn="IDRETT OG SAMFUNN - FELLES PROGRAMFAG I UTDANNINGSPROGRAM FOR IDRETTSFAG - (IDR3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/IDR4-02</lareplanurl>
+    <fag navn="TRENINGSLEDELSE - FELLES PROGRAMFAG I UTDANNINGSPROGRAM FOR IDRETTSFAG - (IDR4-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/IDR5-01</lareplanurl>
+    <fag navn="TOPPIDRETT - VALGFRIE PROGRAMFAG I UTDANNINGSPROGRAM FOR IDRETTSFAG - (IDR5-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/IDR6-02</lareplanurl>
+    <fag navn="BREDDEIDRETT - VALGFRITT PROGRAMFAG I UTDANNINGSPROGRAM FOR IDRETTSFAG - (IDR6-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/IDR7-01</lareplanurl>
+    <fag navn="FRILUFTSLIV - VALGFRIE PROGRAMFAG I UTDANNINGSPROGRAM FOR IDRETTSFAG - (IDR7-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/IDR8-01</lareplanurl>
+    <fag navn="LEDERUTVIKLING - VALGFRIE PROGRAMFAG I UTDANNINGSPROGRAM FOR IDRETTSFAG - (IDR8-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/IFT3-01</lareplanurl>
+    <fag navn="INDUSTRITEKSTILFAGET, FARGING, TRYKKING OG ETTERBEHANDLING VG3 / OPPLÆRING I BEDRIFT - (IFT3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/IGS3-01</lareplanurl>
+    <fag navn="INDUSTRITEKSTILFAGET, GARNFRAMSTILLING VG3 / OPPLÆRING I BEDRIFT - (IGS3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/IKO3-01</lareplanurl>
+    <fag navn="INSTITUSJONSKOKKFAGET VG3 / OPPLÆRING I BEDRIFT - (IKO3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/IME3-01</lareplanurl>
+    <fag navn="INDUSTRIMEKANIKERFAGET VG3 / OPPLÆRING I BEDRIFT - (IME3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/IMF3-01</lareplanurl>
+    <fag navn="INDUSTRIMALERFAGET VG3 / OPPLÆRING I BEDRIFT - (IMF3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/IMO3-01</lareplanurl>
+    <fag navn="INDUSTRIMONTØRFAGET VG3 / OPPLÆRING I BEDRIFT - (IMO3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/IMP3-01</lareplanurl>
+    <fag navn="INDUSTRIELL MATPRODUKSJON VG3 / OPPLÆRING I BEDRIFT - (IMP3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/IMS2-02</lareplanurl>
+    <fag navn="INDUSTRIELL MØBELPRODUKSJON - FELLES PROGRAMFAG VG2 - (IMS2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/IND2-02</lareplanurl>
+    <fag navn="INDUSTRITEKSTIL OG DESIGN - FELLES PROGRAMFAG VG2 - (IND2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/INF1-01</lareplanurl>
+    <fag navn="INFORMASJONSTEKNOLOGI - PROGRAMFAG I UTDANNINGSPROGRAM FOR STUDIESPESIALISERING - (INF1-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/INT3-02</lareplanurl>
+    <fag navn="INTERIØR - FELLES PROGRAMFAG VG3 - (INT3-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/IOM3-01</lareplanurl>
+    <fag navn="INDUSTRIOPPMÅLINGSFAGET VG3/OPPLÆRING I BEDRIFT - (IOM3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/IOV3-01</lareplanurl>
+    <fag navn="INDUSTRIELL OVERFLATEBEHANDLING VG3 / OPPLÆRING I BEDRIFT - (IOV3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/IRL3-01</lareplanurl>
+    <fag navn="INDUSTRIRØRLEGGERFAGET VG3 / OPPLÆRING I BEDRIFT - (IRL3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/ISF2-02</lareplanurl>
+    <fag navn="IKT-SERVICEFAG - FELLES PROGRAMFAG VG2 - (ISF2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/ISF3-01</lareplanurl>
+    <fag navn="IKT-SERVICEFAGET VG3 / OPPLÆRING I BEDRIFT - (ISF3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/ISK3-01</lareplanurl>
+    <fag navn="INDUSTRIELL SKOTØYPRODUKSJON - SÆRLØP VG2 OG VG3 / OPPLÆRING I BEDRIFT - (ISK3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/ISM3-01</lareplanurl>
+    <fag navn="INDUSTRISAUMFAGET VG3 / OPPLÆRING I BEDRIFT - (ISM3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/ISN3-01</lareplanurl>
+    <fag navn="INDUSTRISNIKKARFAGET VG3 / OPPLÆRING I BEDRIFT - (ISN3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/ISO3-01</lareplanurl>
+    <fag navn="ISOLATØRFAGET - SÆRLØP VG2 OG VG3 / OPPLÆRING I BEDRIFT - (ISO3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/ITA3-01</lareplanurl>
+    <fag navn="INDUSTRITAPETSERARFAGET VG3 / OPPLÆRING I BEDRIFT - (ITA3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/ITR3-01</lareplanurl>
+    <fag navn="INDUSTRITEKSTILFAGET, TRIKOTASJE VG3 / OPPLÆRING I BEDRIFT - (ITR3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/IUD2-02</lareplanurl>
+    <fag navn="INTERIØR OG UTSTILLINGSDESIGN - FELLES PROGRAMFAG VG2 - (IUD2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/IVE3-01</lareplanurl>
+    <fag navn="INDUSTRITEKSTILFAGET, VEVING VG3 / OPPLÆRING I BEDRIFT - (IVE3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MGR3-01</lareplanurl>
+    <fag navn="MEDIEGRAFIKERFAGET VG3 / OPPLÆRING I BEDRIFT - (MGR3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/NOR3-03</lareplanurl>
+    <fag navn="NORSK FOR ELEVER MED SAMISK SOM FØRSTESPRÅK - (NOR3-03 )"/>
+    <lareplanurl>https://www.udir.no/kl06/POM3-01</lareplanurl>
+    <fag navn="POLYMERKOMPOSITTFAGET VG3 / OPPLÆRING I BEDRIFT - (POM3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/URM3-01</lareplanurl>
+    <fag navn="URMAKERFAGET VG3 / OPPLÆRING I BEDRIFT - (URM3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/STU3-01</lareplanurl>
+    <fag navn="STORURMAKERFAGET VG3 / OPPLÆRING I BEDRIFT - (STU3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/TAN3-02</lareplanurl>
+    <fag navn="TANNHELSESEKRETÆR - LÆREPLAN FELLES PROGRAMFAG VG3 - (TAN3-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/KVT2-02</lareplanurl>
+    <fag navn="KULDE- OG VARMEPUMPETEKNIKK - FELLES PROGRAMFAG VG2 - (KVT2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MUR3-01</lareplanurl>
+    <fag navn="MURERFAGET VG3 / OPPLÆRING I BEDRIFT - (MUR3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/RSP1-01</lareplanurl>
+    <fag navn="REISELIV OG SPRÅK - PROGRAMFAG I UTDANNINGSPROGRAM FOR STUDIESPESIALISERING - (RSP1-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/SHS1-02</lareplanurl>
+    <fag navn="SAMISK HISTORIE OG SAMFUNN - PROGRAMFAG - (SHS1-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MFG2-02</lareplanurl>
+    <fag navn="MATFAG - FELLES PROGRAMFAG VG2 - (MFG2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/TNF1-01</lareplanurl>
+    <fag navn="TEKNOLOGI OG FORSKNINGSLÆRE - PROGRAMFAG I UTDANNINGSPROGRAM FOR STUDIESPESIALISERING - (TNF1-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/SME2-02</lareplanurl>
+    <fag navn="SMED - FELLES PROGRAMFAG VG2 - (SME2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/KKM1-01</lareplanurl>
+    <fag navn="KOMMUNIKASJON OG KULTUR - PROGRAMFAG I UTDANNINGSPROGRAM FOR STUDIESPESIALISERING - (KKM1-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/RLF3-01</lareplanurl>
+    <fag navn="RØRLEGGJARFAGET VG3 / OPPLÆRING I BEDRIFT - (RLF3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MUS9-01</lareplanurl>
+    <fag navn="SAMISK MUSIKK OG SCENE - VALGFRITT PROGRAMFAG - (MUS9-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/LBR5-01</lareplanurl>
+    <fag navn="LANDBRUK - ØKONOMI OG DRIFTSLEDELSE - VALGFRITT PROGRAMFAG VG3 - (LBR5-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/RHO3-01</lareplanurl>
+    <fag navn="RENHOLDSOPERATØRFAGET VG3 / OPPLÆRING I BEDRIFT - (RHO3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/ROM3-01</lareplanurl>
+    <fag navn="ROMTEKNOLOGI - FELLES PROGRAMFAG VG3 - (ROM3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/RSD3-01</lareplanurl>
+    <fag navn="RESERVEDELSFAGET VG3 / OPPLÆRING I BEDRIFT - (RSD3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/KLO3-02</lareplanurl>
+    <fag navn="KRAN- OG LØFTEOPERASJONSFAGET VG3 / OPPLÆRING I BEDRIFT - (KLO3-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/VER3-01</lareplanurl>
+    <fag navn="VERKTØYMAKERFAGET VG3 / OPPLÆRING I BEDRIFT - (VER3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/ORT3-01</lareplanurl>
+    <fag navn="ORTOPEDITEKNIKKFAGET VG3 / OPPLÆRING I BEDRIFT - (ORT3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/RLE1-02</lareplanurl>
+    <fag navn="KRISTENDOM, RELIGION, LIVSSYN OG ETIKK (KRLE) - (RLE1-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/LBR6-01</lareplanurl>
+    <fag navn="LANDBRUK - ØKOLOGISK LANDBRUK 1 OG 2 - VALGFRIE PROGRAMFAG VG3 - (LBR6-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/UTS3-02</lareplanurl>
+    <fag navn="UTSTILLINGSDESIGN - FELLES PROGRAMFAG VG3 - (UTS3-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/SER3-01</lareplanurl>
+    <fag navn="SERVITØRFAGET VG3 / OPPLÆRING I BEDRIFT - (SER3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MDD5-01</lareplanurl>
+    <fag navn="MUSIKK - PROGRAMFAG I UTDANNINGSPROGRAM FOR MUSIKK, DANS, DRAMA, MUSIKK - (MDD5-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/VOA3-01</lareplanurl>
+    <fag navn="VEG- OG ANLEGGSFAGET VG3 / OPPLÆRING I BEDRIFT - (VOA3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/TAV3-02</lareplanurl>
+    <fag navn="TAVLEMONTØRFAGET VG3 / OPPLÆRING I BEDRIFT - (TAV3-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MUS6-01</lareplanurl>
+    <fag navn="MUSIKK I PERSPEKTIV, PROGRAMFAG I UTDANNINGSPROGRAM FOR MUSIKK, DANS, DRAMA, MUSIKK - (MUS6-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/RTL1-03</lareplanurl>
+    <fag navn="RETTSLÆRE - PROGRAMFAG I UTDANNINGSPROGRAM FOR STUDIESPESIALISERING - (RTL1-03 )"/>
+    <lareplanurl>https://www.udir.no/kl06/KAR3-01</lareplanurl>
+    <fag navn="CHASSISPÅBYGGJARFAGET VG3 / OPPLÆRING I BEDRIFT - (KAR3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MAT3-01</lareplanurl>
+    <fag navn="MATEMATIKK FOR REALFAG - PROGRAMFAG I UTDANNINGSPROGRAM FOR STUDIESPESIALISERING - (MAT3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/TOG3-02</lareplanurl>
+    <fag navn="TOGELEKTRIKERFAGET VG3 / OPPLÆRING I BEDRIFT - (TOG3-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/KHV2-01</lareplanurl>
+    <fag navn="DUODJI - (KHV2-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MTS3-03</lareplanurl>
+    <fag navn="MATROSFAGET VG3 / OPPLÆRING I BEDRIFT - (MTS3-03 )"/>
+    <lareplanurl>https://www.udir.no/kl06/PST2-02</lareplanurl>
+    <fag navn="PIANOSTEMMING OG PIANOTEKNIKK - FELLES PROGRAMFAG - (PST2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MDE3-02</lareplanurl>
+    <fag navn="MEDIEDESIGN - FELLES PROGRAMFAG VG3 - (MDE3-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MAT4-01</lareplanurl>
+    <fag navn="MATEMATIKK FOR SAMFUNNSFAG - PROGRAMFAG I UTDANNINGSPROGRAM FOR STUDIESPESIALISERING - (MAT4-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/TRF3-01</lareplanurl>
+    <fag navn="TEKSTILRENSFAGET - SÆRLØP VG2 OG VG3 / OPPLÆRING I BEDRIFT - (TRF3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MUS2-01</lareplanurl>
+    <fag navn="MUSIKK, SAMISK PLAN - (MUS2-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/SEI3-01</lareplanurl>
+    <fag navn="SEILMAKERFAGET - SÆRLØP VG2 OG VG3 / OPPLÆRING I BEDRIFT - (SEI3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/KRO1-04</lareplanurl>
+    <fag navn="KROPPSØVING - (KRO1-04 )"/>
+    <lareplanurl>https://www.udir.no/kl06/SGR3-01</lareplanurl>
+    <fag navn="SERIGRAFIFAGET VG3 / OPPLÆRING I BEDRIFT - (SGR3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/SME3-01</lareplanurl>
+    <fag navn="SMEDFAGET VG3 / OPPLÆRING I BEDRIFT - (SME3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/TBY3-01</lareplanurl>
+    <fag navn="TREVARE- OG BYGGINNREDNINGSFAGET VG3 / OPPLÆRING I BEDRIFT - (TBY3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/SKO3-01</lareplanurl>
+    <fag navn="SKOMAKERFAGET VG3 / OPPLÆRING I BEDRIFT - (SKO3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/SLF3-01</lareplanurl>
+    <fag navn="SLAKTERFAGET VG3 / OPPLÆRING I BEDRIFT - (SLF3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/NAT2-03</lareplanurl>
+    <fag navn="NATURFAG SAMISK - (NAT2-03 )"/>
+    <lareplanurl>https://www.udir.no/kl06/PSY1-02</lareplanurl>
+    <fag navn="PSYKOLOGI - PROGRAMFAG I UTDANNINGSPROGRAM FOR STUDIESPESIALISERING - (PSY1-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MAT1-04</lareplanurl>
+    <fag navn="MATEMATIKK FELLESFAG - (MAT1-04 )"/>
+    <lareplanurl>https://www.udir.no/kl06/SPD3-01</lareplanurl>
+    <fag navn="SKINN- OG PELSDUODJIFAGET VG3 / OPPLÆRING I BEDRIFT - (SPD3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/VHD3-01</lareplanurl>
+    <fag navn="VEVE- OG HÅNDSTRIKKEDUODJIFAGET VG3 / OPPLÆRING I BEDRIFT - (VHD3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/TED3-01</lareplanurl>
+    <fag navn="TEKSTILDUODJIFAGET VG3 / OPPLÆRING I BEDRIFT - (TED3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/TRD3-01</lareplanurl>
+    <fag navn="TREDUODJIFAGET VG3 / OPPLÆRING I BEDRIFT - (TRD3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/VIK3-01</lareplanurl>
+    <fag navn="VIKLERFAGET VG3 / OPPLÆRING I BEDRIFT - (VIK3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/REP3-01</lareplanurl>
+    <fag navn="REPSLAGERFAGET - SÆRLØP VG2 OG VG3 / OPPLÆRING I BEDRIFT - (REP3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/POS1-02</lareplanurl>
+    <fag navn="POLITIKK, INDIVID OG SAMFUNN - PROGRAMFAG I UTDANNINGSPROGRAM FOR STUDIESPESIALISERING - (POS1-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/NAT1-03</lareplanurl>
+    <fag navn="NATURFAG - (NAT1-03 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MAT6-03</lareplanurl>
+    <fag navn="MATEMATIKK FELLESFAG 2P-Y, VG3 PÅBYGGING TIL GENERELL STUDIEKOMPETANSE - (MAT6-03 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MAT5-03</lareplanurl>
+    <fag navn="MATEMATIKK 2P - (MAT5-03 )"/>
+    <lareplanurl>https://www.udir.no/kl06/SAF1-03</lareplanurl>
+    <fag navn="SAMFUNNSFAG - (SAF1-03 )"/>
+    <lareplanurl>https://www.udir.no/kl06/NOR1-05</lareplanurl>
+    <fag navn="NORSK - (NOR1-05 )"/>
+    <lareplanurl>https://www.udir.no/kl06/SIK3-01</lareplanurl>
+    <fag navn="SIKKERHETSFAGET VG3 / OPPLÆRING I BEDRIFT - (SIK3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/SFS1-04</lareplanurl>
+    <fag navn="SAMISK SOM FØRSTESPRÅK - (SFS1-04 )"/>
+    <lareplanurl>https://www.udir.no/kl06/SAS1-04</lareplanurl>
+    <fag navn="SAMISK SOM ANDRESPRÅK - (SAS1-04 )"/>
+    <lareplanurl>https://www.udir.no/kl06/SBR2-02</lareplanurl>
+    <fag navn="SKOGBRUK - FELLES PROGRAMFAG VG2 - (SBR2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/SAF2-03</lareplanurl>
+    <fag navn="SAMFUNNSFAG SAMISK - (SAF2-03 )"/>
+    <lareplanurl>https://www.udir.no/kl06/TRL2-03</lareplanurl>
+    <fag navn="TRANSPORT OG LOGISTIKK - FELLES PROGRAMFAG VG2 - (TRL2-03 )"/>
+    <lareplanurl>https://www.udir.no/kl06/YRK3-02</lareplanurl>
+    <fag navn="YRKESSJÅFØRFAGET VG3 / OPPLÆRING I BEDRIFT - (YRK3-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/NOR9-03</lareplanurl>
+    <fag navn="NORSK FOR SPRÅKLIGE MINORITETER MED KORT BOTID I NORGE – VIDEREGÅENDE OPPLÆRING - (NOR9-03 )"/>
+    <lareplanurl>https://www.udir.no/kl06/POR3-01</lareplanurl>
+    <fag navn="PORTØRFAGET VG3 / OPPLÆRING I BEDRIFT - (POR3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/SKF3-02</lareplanurl>
+    <fag navn="SKOGFAGET VG3 / OPPLÆRING I BEDRIFT - (SKF3-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MAT7-01</lareplanurl>
+    <fag navn="FORDYPNING I MATEMATIKK - (MAT7-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/UTV1-02</lareplanurl>
+    <fag navn="UTDANNINGSVALG PÅ UNGDOMSTRINNET - (UTV1-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/TLF3-01</lareplanurl>
+    <fag navn="TRELASTFAGET VG3 / OPPLÆRING I BEDRIFT - (TLF3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/KDA2-01</lareplanurl>
+    <fag navn="DESIGN OG ARKITEKTUR – FELLES PROGRAMFAG I UTDANNINGSPROGRAM FOR KUNST, DESIGN OG ARKITEKTUR - (KDA2-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/KDA1-01</lareplanurl>
+    <fag navn="KUNST OG VISUELLE VERKEMIDDEL – FELLES PROGRAMFAG I UTDANNINGSPROGRAM FOR KUNST, DESIGN OG ARKITEKTUR - (KDA1-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/KDA3-01</lareplanurl>
+    <fag navn="KUNST OG SKAPANDE ARBEID – VALFRITT PROGRAMFAG I UTDANNINGSPROGRAM FOR KUNST, DESIGN OG ARKITEKTUR - (KDA3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/KDA4-01</lareplanurl>
+    <fag navn="DESIGN OG BEREKRAFT – VALFRITT PROGRAMFAG I UTDANNINGSPROGRAM FOR KUNST, DESIGN OG ARKITEKTUR - (KDA4-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/KDA5-01</lareplanurl>
+    <fag navn="ARKITEKTUR OG SAMFUNN – VALFRITT PROGRAMFAG I UTDANNINGSPROGRAM FOR KUNST, DESIGN OG ARKITEKTUR - (KDA5-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/KDA6-01</lareplanurl>
+    <fag navn="FOTO OG GRAFIKK - VALFRIE PROGRAMFAG I UTDANNINGSPROGRAM FOR KUNST, DESIGN OG ARKITEKTUR - (KDA6-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MOK1-01</lareplanurl>
+    <fag navn="MEDIESAMFUNNET - FELLES PROGRAMFAG I UTDANNINGSPROGRAM FOR MEDIER OG KOMMUNIKASJON - (MOK1-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MOK2-01</lareplanurl>
+    <fag navn="MEDIEUTTRYKK - FELLES PROGRAMFAG I UTDANNINGSPROGRAM FOR MEDIER OG KOMMUNIKASJON - (MOK2-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MOK3-01</lareplanurl>
+    <fag navn="TEKST - VALGFRITT PROGRAMFAG I UTDANNINGSPROGRAM FOR MEDIER OG KOMMUNIKASJON - (MOK3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MOK4-01</lareplanurl>
+    <fag navn="BILDE - VALGFRITT PROGRAMFAG I UTDANNINGSPROGRAM FOR MEDIER OG KOMMUNIKASJON - (MOK4-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MOK5-01</lareplanurl>
+    <fag navn="LYDDESIGN - VALFRITT PROGRAMFAG I UTDANNINGSPROGRAM FOR MEDIUM OG KOMMUNIKASJON - (MOK5-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MOK6-01</lareplanurl>
+    <fag navn="GRAFISK DESIGN - VALFRITT PROGRAMFAG I UTDANNINGSPROGRAM FOR MEDIUM OG KOMMUNIKASJON - (MOK6-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MAR3-01</lareplanurl>
+    <fag navn="FELLES PROGRAMFAG VG2 – MARITIME FAG - (MAR3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MAR4-01</lareplanurl>
+    <fag navn="DEKK, VALGFRITT PROGRAMFAG VG2 – MARITIME FAG - (MAR4-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MOM3-03</lareplanurl>
+    <fag navn="MOTORMANNFAGET VG3 / OPPLÆRING I BEDRIFT - (MOM3-03 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MAR5-01</lareplanurl>
+    <fag navn="MASKIN, VALGFRITT PROGRAMFAG VG2 – MARITIME FAG - (MAR5-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/NOK2-02</lareplanurl>
+    <fag navn="NÆRINGSLIVSØKONOMI - PROGRAMFAG I UTDANNINGSPROGRAM FOR STUDIESPESIALISERING - (NOK2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MFL1-02</lareplanurl>
+    <fag navn="MARKEDSFØRING OG LEDELSE - PROGRAMFAG I UTDANNINGSPROGRAM FOR STUDIESPESIALISERING - (MFL1-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/SOK1-02</lareplanurl>
+    <fag navn="SAMFUNNSØKONOMI - PROGRAMFAG I UTDANNINGSPROGRAM FOR STUDIESPESIALISERING - (SOK1-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MIN1-02</lareplanurl>
+    <fag navn="MEDIE- OG INFORMASJONSKUNNSKAP - PROGRAMFAG I UTDANNINGSPROGRAM FOR STUDIESPESIALISERING - (MIN1-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MOK7-01</lareplanurl>
+    <fag navn="MEDIEUTVIKLING - VALGFRITT PROGRAMFAG I UTDANNINGSPROGRAM FOR MEDIER OG KOMMUNIKASJON - (MOK7-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MEL3-01</lareplanurl>
+    <fag navn="MARITIM ELEKTRIKER - FELLES PROGRAMFAG VG3 - (MEL3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MHE1-01</lareplanurl>
+    <fag navn="MAT OG HELSE - (MHE1-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MEL4-01</lareplanurl>
+    <fag navn="MARITIM ELEKTRIKERFAGET OPPLÆRING I BEDRIFT - (MEL4-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MOK8-01</lareplanurl>
+    <fag navn="MEDIESPESIALISERING - VALGFRITT PROGRAMFAG I UTDANNINGSPROGRAM FOR MEDIER OG KOMMUNIKASJON - (MOK8-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/TAK3-01</lareplanurl>
+    <fag navn="TAK- OG MEMBRANTEKKERFAGET VG3 / OPPLÆRING I BEDRIFT - (TAK3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/NAB4-01</lareplanurl>
+    <fag navn="STUDIEFORBEREDENDE VG3 INNEN NATURBRUK - BRUK OG VERN - VALGFRITT PROGRAMFAG - (NAB4-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/LOG3-01</lareplanurl>
+    <fag navn="LOGISTIKKFAGET VG3 / OPPLÆRING I BEDRIFT - (LOG3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MDD1-01</lareplanurl>
+    <fag navn="MUSIKK, DANS OG DRAMA - PROGRAMFAG I UTDANNINGSPROGRAM FOR MUSIKK, DANS, DRAMA - (MDD1-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/TMF3-01</lareplanurl>
+    <fag navn="TØMRARFAGET VG3 / OPPLÆRING I BEDRIFT - (TMF3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/PRO3-01</lareplanurl>
+    <fag navn="PRODUKSJONSELEKTRONIKERFAGET VG3 / OPPLÆRING I BEDRIFT - (PRO3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/NAB6-01</lareplanurl>
+    <fag navn="STUDIEFORBEREDENDE VG3 INNEN NATURBRUK - NÆRINGSDRIFT I NATURBRUK - VALGFRITT PROGRAMFAG - (NAB6-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/LIM3-01</lareplanurl>
+    <fag navn="LIMTREPRODUKSJONSFAGET VG3 / OPPLÆRING I BEDRIFT - (LIM3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/LAB3-01</lareplanurl>
+    <fag navn="LABORATORIEFAGET VG3 / OPPLÆRING I BEDRIFT - (LAB3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/KRV3-01</lareplanurl>
+    <fag navn="KURVMAKERFAGET - SÆRLØP VG2 OG VG3 / OPPLÆRING I BEDRIFT - (KRV3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MDD2-01</lareplanurl>
+    <fag navn="BEVEGELSE - PROGRAMFAG I UTDANNINGSPROGRAM FOR MUSIKK, DANS, DRAMA - (MDD2-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MUS1-01</lareplanurl>
+    <fag navn="MUSIKK - (MUS1-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MHE2-01</lareplanurl>
+    <fag navn="MAT OG HELSE, SAMISK PLAN - (MHE2-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/NAU3-01</lareplanurl>
+    <fag navn="NAUTISK INSTRUMENTMAKERFAGET VG3 / OPPLÆRING I BEDRIFT - (NAU3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/SLV3-01</lareplanurl>
+    <fag navn="SØLVSMEDFAGET VG3 / OPPLÆRING I BEDRIFT - (SLV3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/LBR4-01</lareplanurl>
+    <fag navn="LANDBRUK - TRAKTOR OG MASKINER - VALGFRITT PROGRAMFAG VG3 - (LBR4-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/KON3-01</lareplanurl>
+    <fag navn="KONDITORFAGET VG3 / OPPLÆRING I BEDRIFT - (KON3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/STF3-01</lareplanurl>
+    <fag navn="STØPERIFAGET VG3 / OPPLÆRING I BEDRIFT - (STF3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/SSS2-02</lareplanurl>
+    <fag navn="SALG, SERVICE OG SIKKERHET - FELLES PROGRAMFAG VG2 - (SSS2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/SLG3-01</lareplanurl>
+    <fag navn="SALGSFAGET VG3 / OPPLÆRING I BEDRIFT - (SLG3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/LSF3-01</lareplanurl>
+    <fag navn="LÅSESMEDFAGET - SÆRLØP VG2 OG VG3 / OPPLÆRING I BEDRIFT - (LSF3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MUS5-01</lareplanurl>
+    <fag navn="INSTRUMENT, KOR, SAMSPILL, PROGRAMFAG I UTDANNINGSPROGRAM FOR MUSIKK, DANS, DRAMA, MUSIKK - (MUS5-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/SMH3-01</lareplanurl>
+    <fag navn="SJØMATHANDLARFAGET VG3 / OPPLÆRING I BEDRIFT - (SMH3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/SFS2-01</lareplanurl>
+    <fag navn="FORDYPNING I SAMISK - (SFS2-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/KUL3-02</lareplanurl>
+    <fag navn="KULDE- OG VARMEPUMPEMONTØRFAGET VG3 / OPPLÆRING I BEDRIFT - (KUL3-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/STI3-01</lareplanurl>
+    <fag navn="STILLASBYGGERFAGET VG3 / OPPLÆRING I BEDRIFT - (STI3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MED2-03</lareplanurl>
+    <fag navn="MEDIEPRODUKSJON - FELLES PROGRAMFAG VG2 - (MED2-03 )"/>
+    <lareplanurl>https://www.udir.no/kl06/REI2-02</lareplanurl>
+    <fag navn="FELLES PROGRAMFAG VG2 REINDRIFT - (REI2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/NAB5-01</lareplanurl>
+    <fag navn="STUDIEFORBEREDENDE VG3 INNEN NATURBRUK - FELTARBEID I NATURBRUK - VALGFRITT PROGRAMFAG - (NAB5-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/UIM2-02</lareplanurl>
+    <fag navn="UR- OG INSTRUMENTMAKER - FELLES PROGRAMFAG VG2 - (UIM2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/KJE1-01</lareplanurl>
+    <fag navn="KJEMI - PROGRAMFAG I UTDANNINGSPROGRAM FOR STUDIESPESIALISERING - (KJE1-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/LBR3-02</lareplanurl>
+    <fag navn="LANDBRUK - FELLES PROGRAMFAG VG3 - (LBR3-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/KJP2-02</lareplanurl>
+    <fag navn="KJEMIPROSESS - FELLES PROGRAMFAG VG2 - (KJP2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/STE3-01</lareplanurl>
+    <fag navn="STEINFAGET - SÆRLØP VG2 OG VG3 / OPPLÆRING I BEDRIFT - (STE3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/TEP3-01</lareplanurl>
+    <fag navn="TERMOPLASTFAGET VG3 / OPPLÆRING I BEDRIFT - (TEP3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/SIG3-01</lareplanurl>
+    <fag navn="SIGNALMONTØRFAGET VG3 / OPPLÆRING I BEDRIFT - (SIG3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MSF3-01</lareplanurl>
+    <fag navn="MØBELSNEKKERFAGET VG3 / OPPLÆRING I BEDRIFT - (MSF3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MAT2-01</lareplanurl>
+    <fag navn="MATEMATIKK X - PROGRAMFAG I UTDANNINGSPROGRAM FOR STUDIESPESIALISERING - (MAT2-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/TRB3-01</lareplanurl>
+    <fag navn="TREBÅTBYGGERFAGET VG3 / OPPLÆRING I BEDRIFT - (TRB3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MSY3-01</lareplanurl>
+    <fag navn="MOTORSYKKELFAGET VG3 / OPPLÆRING I BEDRIFT - (MSY3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/OPT3-01</lareplanurl>
+    <fag navn="OPTRONIKERFAGET VG3 / OPPLÆRING I BEDRIFT - (OPT3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/KJT2-02</lareplanurl>
+    <fag navn="KJØRETØY - KJØRETØY VG2 - (KJT2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/KSK3-01</lareplanurl>
+    <fag navn="KJØTTSKJÆRERFAGET VG3 / OPPLÆRING I BEDRIFT - (KSK3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/LGA2-02</lareplanurl>
+    <fag navn="LANDBRUK OG GARTNERNÆRING - FELLES PROGRAMFAG VG2 - (LGA2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/PMF3-01</lareplanurl>
+    <fag navn="PØLSEMAKERFAGET VG3 / OPPLÆRING I BEDRIFT - (PMF3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/TKS3-01</lareplanurl>
+    <fag navn="TAKSIDERMISTFAGET - SÆRLØP VG2 OG VG3 / OPPLÆRING I BEDRIFT - (TKS3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MUS7-01</lareplanurl>
+    <fag navn="INSTRUKSJON OG LEDELSE - PROGRAMFAG I UTDANNINGSPROGRAM FOR MUSIKK, DANS, DRAMA, MUSIKK - (MUS7-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/NDT3-01</lareplanurl>
+    <fag navn="NDT-KONTROLLØRFAGET VG3 / OPPLÆRING I BEDRIFT - (NDT3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/LMM3-01</lareplanurl>
+    <fag navn="LANDBRUKSMASKINMEKANIKARFAGET VG3 / OPPLÆRING I BEDRIFT - (LMM3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/RFG2-02</lareplanurl>
+    <fag navn="KOKK- OG SERVITØRFAG - FELLES PROGRAMFAG VG2 - (RFG2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/PLA3-01</lareplanurl>
+    <fag navn="PLATEARBEIDERFAGET VG3 / OPPLÆRING I BEDRIFT - (PLA3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MDD4-01</lareplanurl>
+    <fag navn="DANSETEKNIKKER - PROGRAMFAG I UTDANNINGSPROGRAM FOR MUSIKK, DANS, DRAMA, DANS - (MDD4-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MUS8-01</lareplanurl>
+    <fag navn="MUSIKK FORDYPNING, PROGRAMFAG I UTDANNINGSPROGRAM FOR MUSIKK, DANS, DRAMA, MUSIKK - (MUS8-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/LAB2-02</lareplanurl>
+    <fag navn="LABORATORIEFAG - FELLES PROGRAMFAG VG2 - (LAB2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/REL1-01</lareplanurl>
+    <fag navn="RELIGION OG ETIKK - FELLESFAG I STUDIEFORBEREDENDE UTDANNINGSPROGRAM - (REL1-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/ORG3-01</lareplanurl>
+    <fag navn="ORGELBYGGERFAGET VG3 / OPPLÆRING I BEDRIFT - (ORG3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/KEM2-02</lareplanurl>
+    <fag navn="KLIMA-, ENERGI- OG MILJØTEKNIKK - FELLES PROGRAMFAG VG2 - (KEM2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/KBB3-01</lareplanurl>
+    <fag navn="KOMPOSITTBÅTBYGGERFAGET VG3 / OPPLÆRING I BEDRIFT - (KBB3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/KAD3-01</lareplanurl>
+    <fag navn="KONTOR- OG ADMINISTRASJONSFAGET VG3 / OPPLÆRING I BEDRIFT - (KAD3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/TSK3-01</lareplanurl>
+    <fag navn="TRESKJERARFAGET VG3 / OPPLÆRING I BEDRIFT - (TSK3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/TDR3-01</lareplanurl>
+    <fag navn="TREDREIERFAGET VG3 / OPPLÆRING I BEDRIFT - (TDR3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/KJP3-01</lareplanurl>
+    <fag navn="KJEMIPROSESSFAGET VG3 / OPPLÆRING I BEDRIFT - (KJP3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/NAB3-01</lareplanurl>
+    <fag navn="STUDIEFØREBUANDE VG3 INNAN NATURBRUK - FELLES PROGRAMFAG NATURFORVALTNING - (NAB3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/RLV3-01</lareplanurl>
+    <fag navn="REISELIVSFAGET VG3 / OPPLÆRING I BEDRIFT - (RLV3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/TEL3-01</lareplanurl>
+    <fag navn="TELEKOMMUNIKASJONSMONTØRFAGET VG3 / OPPLÆRING I BEDRIFT - (TEL3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MDD6-01</lareplanurl>
+    <fag navn="TEATERENSEMBLE - PROGRAMFAG I UTDANNINGSPROGRAM FOR MUSIKK, DANS, DRAMA, DRAMA - (MDD6-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/SMP3-01</lareplanurl>
+    <fag navn="SJØMATPRODUKSJON VG3 / OPPLÆRING I BEDRIFT - (SMP3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/KHV1-01</lareplanurl>
+    <fag navn="KUNST OG HÅNDVERK - (KHV1-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/KER3-01</lareplanurl>
+    <fag navn="KERAMIKERFAGET - SÆRLØP VG2 OG VG3 / OPPLÆRING I BEDRIFT - (KER3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MUS4-01</lareplanurl>
+    <fag navn="ERGONOMI OG BEVEGELSE, PROGRAMFAG I UTDANNINGSPROGRAM FOR MUSIKK, DANS, DRAMA, MUSIKK - (MUS4-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MAL3-02</lareplanurl>
+    <fag navn="MÅLARFAGET VG3 / OPPLÆRING I BEDRIFT - (MAL3-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/SVE3-01</lareplanurl>
+    <fag navn="SVEISEFAGET VG3 / OPPLÆRING I BEDRIFT - (SVE3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MTF3-01</lareplanurl>
+    <fag navn="MØBELTAPETSERERFAGET VG3 / OPPLÆRING I BEDRIFT - (MTF3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MME3-01</lareplanurl>
+    <fag navn="MOTORMEKANIKERFAGET VG3 / OPPLÆRING I BEDRIFT - (MME3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MPM3-01</lareplanurl>
+    <fag navn="MASKØR- OG PARYKKMAKERFAGET - SÆRLØP VG2 OG VG3 / OPPLÆRING I BEDRIFT - (MPM3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/RLE2-02</lareplanurl>
+    <fag navn="KRISTENDOM, RELIGION, LIVSSYN OG ETIKK - SAMISK - (RLE2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MOB3-01</lareplanurl>
+    <fag navn="MODELLBYGGJARFAGET VG3 / OPPLÆRING I BEDRIFT - (MOB3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/PST3-02</lareplanurl>
+    <fag navn="PIANOSTEMMING OG PIANOTEKNIKK - FELLES PROGRAMFAG VG3 - (PST3-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/NOR6-01</lareplanurl>
+    <fag navn="FORDYPNING I NORSK - (NOR6-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/KJD3-01</lareplanurl>
+    <fag navn="KJOLE- OG DRAKTSYERFAGET VG3 / OPPLÆRING I BEDRIFT - (KJD3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/OFT2-02</lareplanurl>
+    <fag navn="OVERFLATETEKNIKK - LÆREPLAN FELLES PROGRAMFAG VG2 - (OFT2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/REL2-01</lareplanurl>
+    <fag navn="RELIGION OG ETIKK, SAMISK PLAN, FELLESFAG I STUDIEFORBEREDENDE UTDANNINGSPROGRAM - (REL2-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/VAS3-01</lareplanurl>
+    <fag navn="VASKERIFAGET - SÆRLØP VG2 OG VG3 / OPPLÆRING I BEDRIFT - (VAS3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MDD3-01</lareplanurl>
+    <fag navn="LYTTING - PROGRAMFAG I UTDANNINGSPROGRAM FOR MUSIKK, DANS, DRAMA, MUSIKK - (MDD3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/RES3-01</lareplanurl>
+    <fag navn="RESEPSJONSFAGET VG3 / OPPLÆRING I BEDRIFT - (RES3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/SAL3-01</lareplanurl>
+    <fag navn="SALMAKERFAGET VG3 / OPPLÆRING I BEDRIFT - (SAL3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/PSP1-01</lareplanurl>
+    <fag navn="FREMMEDSPRÅK - PROGRAMFAG I UTDANNINGSPROGRAM FOR STUDIESPESIALISERING - (PSP1-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/RLV2-02</lareplanurl>
+    <fag navn="REISELIV - FELLES PROGRAMFAG VG2 - (RLV2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/KOK3-01</lareplanurl>
+    <fag navn="KOKKFAGET VG3 / OPPLÆRING I BEDRIFT - (KOK3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/PLM3-01</lareplanurl>
+    <fag navn="PLASTMEKANIKERFAGET VG3 / OPPLÆRING I BEDRIFT - (PLM3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/MOD3-01</lareplanurl>
+    <fag navn="MODISTFAGET VG3 / OPPLÆRING I BEDRIFT - (MOD3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/STR3-01</lareplanurl>
+    <fag navn="STRIKKEFAGET VG3 / OPPLÆRING I BEDRIFT - (STR3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/PRT3-01</lareplanurl>
+    <fag navn="PRODUKSJONSTEKNIKKFAGET VG3 / OPPLÆRING I BEDRIFT - (PRT3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/PFD3-01</lareplanurl>
+    <fag navn="PROFILERINGSDESIGNFAGET VG3/OPPLÆRING I BEDRIFT - (PFD3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/TRT2-02</lareplanurl>
+    <fag navn="TRETEKNIKK - FELLES PROGRAMFAG VG2 - (TRT2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/KST3-01</lareplanurl>
+    <fag navn="KOSTYMESYERFAGET VG3 / OPPLÆRING I BEDRIFT - (KST3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/PIN2-02</lareplanurl>
+    <fag navn="INDUSTRITEKNOLOGI - FELLES PROGRAMFAG VG2 - (PIN2-02 )"/>
+    <lareplanurl>https://www.udir.no/kl06/VBL3-01</lareplanurl>
+    <fag navn="VENTILASJONS- OG BLIKKENSLAGERFAGET - (VBL3-01 )"/>
+    <lareplanurl>https://www.udir.no/kl06/REI3-01</lareplanurl>
+    <fag navn="REINDRIFTSFAGET VG3 / OPPLÆRING I BEDRIFT - (REI3-01 )"/>
+    <lareplanurl>https://www.udir.no/lk20/ARB01-03</lareplanurl>
+    <fag navn="ARBEIDSLIVSFAG PÅ UNGDOMSTRINNET - (ARB01-03 )"/>
+    <lareplanurl>https://www.udir.no/lk20/BAT01-03</lareplanurl>
+    <fag navn="VG1 BYGG- OG ANLEGGSTEKNIKK - (BAT01-03 )"/>
+    <lareplanurl>https://www.udir.no/lk20/FBI01-01</lareplanurl>
+    <fag navn="VG1 FRISØR, BLOMSTER, INTERIØR OG EKSPONERINGSDESIGN - (FBI01-01 )"/>
+    <lareplanurl>https://www.udir.no/lk20/DTH01-01</lareplanurl>
+    <fag navn="VG1 HÅNDVERK, DESIGN OG PRODUKTUTVIKLING - (DTH01-01 )"/>
+    <lareplanurl>https://www.udir.no/lk20/DIP01-02</lareplanurl>
+    <fag navn="VALGFAGET DEMOKRATI I PRAKSIS - (DIP01-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/DOR01-02</lareplanurl>
+    <fag navn="VALGFAGET DESIGN OG REDESIGN - (DOR01-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/ENG02-04</lareplanurl>
+    <fag navn="ENGELSK FOR ELEVER MED TEGNSPRÅK - (ENG02-04 )"/>
+    <lareplanurl>https://www.udir.no/lk20/NOR05-05</lareplanurl>
+    <fag navn="NORSK FOR ELEVER MED TEGNSPRÅK - (NOR05-05 )"/>
+    <lareplanurl>https://www.udir.no/lk20/MUS03-02</lareplanurl>
+    <fag navn="DRAMA OG RYTMIKK FOR ELEVER MED TEGNSPRÅK - (MUS03-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/NOR04-05</lareplanurl>
+    <fag navn="NORSK TEGNSPRÅK - (NOR04-05 )"/>
+    <lareplanurl>https://www.udir.no/lk20/ELE01-03</lareplanurl>
+    <fag navn="VG1 ELEKTRO OG DATATEKNOLOGI - (ELE01-03 )"/>
+    <lareplanurl>https://www.udir.no/lk20/ENG01-04</lareplanurl>
+    <fag navn="ENGELSK - (ENG01-04 )"/>
+    <lareplanurl>https://www.udir.no/lk20/ENG03-02</lareplanurl>
+    <fag navn="FORDYPNING I ENGELSK - (ENG03-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/ENG04-02</lareplanurl>
+    <fag navn="ENGELSK PROGRAMFAG - (ENG04-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/FAH01-02</lareplanurl>
+    <fag navn="VALGFAGET FYSISK AKTIVITET OG HELSE - (FAH01-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/KEF01-01</lareplanurl>
+    <fag navn="KVENSK ELLER FINSK SOM ANDRESPRÅK - (KEF01-01 )"/>
+    <lareplanurl>https://www.udir.no/lk20/FIP01-02</lareplanurl>
+    <fag navn="VALGFAGET IDEER OG PRAKTISK FORSKNING - (FIP01-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/FSP01-02</lareplanurl>
+    <fag navn="FREMMEDSPRÅK - (FSP01-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/GEO01-02</lareplanurl>
+    <fag navn="GEOGRAFI - FELLESFAG I STUDIEFØREBUANDE UTDANNINGSPROGRAM - (GEO01-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/GEO02-02</lareplanurl>
+    <fag navn="GEOGRAFI, SAMISK PLAN, FELLESFAG I STUDIEFORBEREDENDE UTDANNINGSPROGRAM - (GEO02-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/NOR07-02</lareplanurl>
+    <fag navn="GRUNNLEGGENDE NORSK FOR SPRÅKLIGE MINORITETER - (NOR07-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/HIS01-03</lareplanurl>
+    <fag navn="HISTORIE – FELLESFAG I STUDIEFORBEREDENDE UTDANNINGSPROGRAM - (HIS01-03 )"/>
+    <lareplanurl>https://www.udir.no/lk20/HIS02-03</lareplanurl>
+    <fag navn="HISTORIE, SAMISK PLAN – FELLESFAG I STUDIEFORBEREDENDE UTDANNINGSPROGRAM - (HIS02-03 )"/>
+    <lareplanurl>https://www.udir.no/lk20/HSF01-03</lareplanurl>
+    <fag navn="VG1 HELSE- OG OPPVEKSTFAG - (HSF01-03 )"/>
+    <lareplanurl>https://www.udir.no/lk20/IDR01-02</lareplanurl>
+    <fag navn="AKTIVITETSLÆRE - (IDR01-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/IDR02-03</lareplanurl>
+    <fag navn="TRENINGSLÆRE - (IDR02-03 )"/>
+    <lareplanurl>https://www.udir.no/lk20/IDR03-02</lareplanurl>
+    <fag navn="IDRETT OG SAMFUNN - (IDR03-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/IDR04-03</lareplanurl>
+    <fag navn="TRENINGSLEDELSE - (IDR04-03 )"/>
+    <lareplanurl>https://www.udir.no/lk20/IDR05-02</lareplanurl>
+    <fag navn="TOPPIDRETT - (IDR05-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/IDR06-03</lareplanurl>
+    <fag navn="BREDDEIDRETT - (IDR06-03 )"/>
+    <lareplanurl>https://www.udir.no/lk20/IDR07-02</lareplanurl>
+    <fag navn="FRILUFTSLIV - (IDR07-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/IDR08-02</lareplanurl>
+    <fag navn="LEDERUTVIKLING - (IDR08-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/IFA01-02</lareplanurl>
+    <fag navn="VALGFAGET INNSATS FOR ANDRE - (IFA01-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/IKM01-01</lareplanurl>
+    <fag navn="VG1 INFORMASJONSTEKNOLOGI OG MEDIEPRODUKSJON - (IKM01-01 )"/>
+    <lareplanurl>https://www.udir.no/lk20/ISA01-02</lareplanurl>
+    <fag navn="VALGFAGET INTERNASJONALT SAMARBEID - (ISA01-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/KDA01-02</lareplanurl>
+    <fag navn="KUNST OG VISUELLE VERKEMIDDEL - (KDA01-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/KDA02-02</lareplanurl>
+    <fag navn="DESIGN OG ARKITEKTUR - (KDA02-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/KHV02-02</lareplanurl>
+    <fag navn="DUODJI - (KHV02-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/UTV01-03</lareplanurl>
+    <fag navn="UTDANNINGSVALG PÅ UNGDOMSTRINNET - (UTV01-03 )"/>
+    <lareplanurl>https://www.udir.no/lk20/NOR01-06</lareplanurl>
+    <fag navn="NORSK - (NOR01-06 )"/>
+    <lareplanurl>https://www.udir.no/lk20/NOR06-02</lareplanurl>
+    <fag navn="FORDYPNING I NORSK - (NOR06-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/MAT01-05</lareplanurl>
+    <fag navn="MATEMATIKK 1.–10. TRINN - (MAT01-05 )"/>
+    <lareplanurl>https://www.udir.no/lk20/NOR03-04</lareplanurl>
+    <fag navn="NORSK FOR ELEVER MED SAMISK SOM FØRSTESPRÅK - (NOR03-04 )"/>
+    <lareplanurl>https://www.udir.no/lk20/SAF01-04</lareplanurl>
+    <fag navn="SAMFUNNSFAG - (SAF01-04 )"/>
+    <lareplanurl>https://www.udir.no/lk20/SAF02-04</lareplanurl>
+    <fag navn="SAMFUNNSFAG SAMISK - (SAF02-04 )"/>
+    <lareplanurl>https://www.udir.no/lk20/MHE01-02</lareplanurl>
+    <fag navn="MAT OG HELSE - (MHE01-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/KHV01-02</lareplanurl>
+    <fag navn="KUNST OG HÅNDVERK - (KHV01-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/REL02-02</lareplanurl>
+    <fag navn="RELIGION OG ETIKK, SAMISK PLAN, FELLESFAG I STUDIEFORBEREDENDE UTDANNINGSPROGRAM - (REL02-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/REL01-02</lareplanurl>
+    <fag navn="RELIGION OG ETIKK – FELLESFAG I STUDIEFORBEREDENDE UTDANNINGSPROGRAM - (REL01-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/RLE02-03</lareplanurl>
+    <fag navn="KRISTENDOM, RELIGION, LIVSSYN OG ETIKK (KRLE), SAMISK PLAN - (RLE02-03 )"/>
+    <lareplanurl>https://www.udir.no/lk20/RLE01-03</lareplanurl>
+    <fag navn="KRISTENDOM, RELIGION, LIVSSYN OG ETIKK (KRLE) - (RLE01-03 )"/>
+    <lareplanurl>https://www.udir.no/lk20/MAT07-02</lareplanurl>
+    <fag navn="FORDYPNING I MATEMATIKK - (MAT07-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/MHE02-02</lareplanurl>
+    <fag navn="MAT OG HELSE, SAMISK PLAN - (MHE02-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/KRO01-05</lareplanurl>
+    <fag navn="KROPPSØVING  - (KRO01-05 )"/>
+    <lareplanurl>https://www.udir.no/lk20/MUS01-02</lareplanurl>
+    <fag navn="MUSIKK - (MUS01-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/MUS02-02</lareplanurl>
+    <fag navn="MUSIKK SAMISK  - (MUS02-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/SFS02-02</lareplanurl>
+    <fag navn="OAHPPOPLÁNA – ČIEKŊUDEAPMI SÁMEGIELAS - (SFS02-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/SFS01-05</lareplanurl>
+    <fag navn="OAHPPOPLÁNA – SÁMEGIELLA VUOSTTAŠGIELLAN - (SFS01-05 )"/>
+    <lareplanurl>https://www.udir.no/lk20/SAS02-01</lareplanurl>
+    <fag navn="OAHPPOPLÁNA – SÁMEGIELLA NUBBINGIELLAN, SÁMEGIELLA 2 - (SAS02-01 )"/>
+    <lareplanurl>https://www.udir.no/lk20/SAS03-01</lareplanurl>
+    <fag navn="OAHPPOPLÁNA – SÁMEGIELLA NUBBINGIELLAN, SÁMEGIELLA 3 - (SAS03-01 )"/>
+    <lareplanurl>https://www.udir.no/lk20/SAS04-01</lareplanurl>
+    <fag navn="OAHPPOPLÁNA – SÁMEGIELLA NUBBINGIELLAN, SÁMEGIELLA 4 - (SAS04-01 )"/>
+    <lareplanurl>https://www.udir.no/lk20/RMF01-03</lareplanurl>
+    <fag navn="VG1 RESTAURANT- OG MATFAG - (RMF01-03 )"/>
+    <lareplanurl>https://www.udir.no/lk20/SSR01-01</lareplanurl>
+    <fag navn="VG1 SAL, SERVICE OG REISELIV - (SSR01-01 )"/>
+    <lareplanurl>https://www.udir.no/lk20/NAB01-03</lareplanurl>
+    <fag navn="VG1 NATURBRUK - (NAB01-03 )"/>
+    <lareplanurl>https://www.udir.no/lk20/MAT08-01</lareplanurl>
+    <fag navn="MATEMATIKK FELLESFAG VG1 PRAKTISK (MATEMATIKK P) - (MAT08-01 )"/>
+    <lareplanurl>https://www.udir.no/lk20/TIP01-03</lareplanurl>
+    <fag navn="VG1 TEKNOLOGI- OG INDUSTRIFAG - (TIP01-03 )"/>
+    <lareplanurl>https://www.udir.no/lk20/MOK02-02</lareplanurl>
+    <fag navn="MEDIEUTTRYKK - (MOK02-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/MDD01-02</lareplanurl>
+    <fag navn="MUSIKK, DANS OG DRAMA - (MDD01-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/MDD02-02</lareplanurl>
+    <fag navn="BEVEGELSE - (MDD02-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/MDD03-02</lareplanurl>
+    <fag navn="LYTTING - (MDD03-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/MDD04-02</lareplanurl>
+    <fag navn="DANSETEKNIKKER - (MDD04-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/MDD05-02</lareplanurl>
+    <fag navn="MUSIKK - (MDD05-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/MDD06-02</lareplanurl>
+    <fag navn="TEATERENSEMBLE - (MDD06-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/MUS09-02</lareplanurl>
+    <fag navn="OAHPPOPLÁNA – SÁMI MUSIHKKA JA LÁVDI - (MUS09-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/MOK01-02</lareplanurl>
+    <fag navn="MEDIESAMFUNNET - (MOK01-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/MAT09-01</lareplanurl>
+    <fag navn="MATEMATIKK FELLESFAG VG1 TEORETISK (MATEMATIKK T) - (MAT09-01 )"/>
+    <lareplanurl>https://www.udir.no/lk20/MAT03-02</lareplanurl>
+    <fag navn="MATEMATIKK FOR REALFAG (MATEMATIKK R) - (MAT03-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/MAT04-02</lareplanurl>
+    <fag navn="MATEMATIKK FOR SAMFUNNSFAG (MATEMATIKK S) - (MAT04-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/PSP01-02</lareplanurl>
+    <fag navn="FREMMEDSPRÅK PROGRAMFAG - (PSP01-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/TPR01-02</lareplanurl>
+    <fag navn="VALFAGET TEKNOLOGI OG DESIGN - (TPR01-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/PRG01-02</lareplanurl>
+    <fag navn="VALGFAGET PROGRAMMERING - (PRG01-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/PVT01-02</lareplanurl>
+    <fag navn="VALGFAGET UTVIKLING AV PRODUKTER OG TJENESTER - (PVT01-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/TRA01-02</lareplanurl>
+    <fag navn="VALGFAGET TRAFIKK - (TRA01-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/PHF01-02</lareplanurl>
+    <fag navn="VALGFAGET PRAKTISK HÅNDVERKSFAG - (PHF01-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/RSL01-02</lareplanurl>
+    <fag navn="VALFAGET REISELIV - (RSL01-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/LKA01-02</lareplanurl>
+    <fag navn="VALFAGET KULTURARV - (LKA01-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/SOS01-02</lareplanurl>
+    <fag navn="VALGFAGET PRODUKSJON FOR SCENE - (SOS01-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/MAT05-04</lareplanurl>
+    <fag navn="MATEMATIKK FELLESFAG 2P - (MAT05-04 )"/>
+    <lareplanurl>https://www.udir.no/lk20/MOI01-02</lareplanurl>
+    <fag navn="VALGFAGET MEDIER OG KOMMUNIKASJON - (MOI01-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/NMF01-02</lareplanurl>
+    <fag navn="VALGFAGET FRILUFTSLIV - (NMF01-02 )"/>
+    <lareplanurl>https://www.udir.no/lk20/MAT06-04</lareplanurl>
+    <fag navn="MATEMATIKK FELLESFAG 2P-Y – VG3 PÅBYGGING TIL GENERELL STUDIEKOMPETANSE - (MAT06-04 )"/>
+    <lareplanurl>https://www.udir.no/lk20/SAK01-01</lareplanurl>
+    <fag navn="SAMFUNNSKUNNSKAP - FELLESFAG VG1/VG2 - (SAK01-01 )"/>
+    <lareplanurl>https://www.udir.no/lk20/NAT02-04</lareplanurl>
+    <fag navn="NATURFAG SAMISK - (NAT02-04 )"/>
+    <lareplanurl>https://www.udir.no/lk20/SAK02-01</lareplanurl>
+    <fag navn="SAMFUNNSKUNNSKAP, SAMISK PLAN, FELLESFAG VG1/VG2 - (SAK02-01 )"/>
+    <lareplanurl>https://www.udir.no/lk20/NAT01-04</lareplanurl>
+    <fag navn="NATURFAG - (NAT01-04 )"/>
+    <lareplanurl>https://www.udir.no/lk20/NOR09-04</lareplanurl>
+    <fag navn="NORSK FOR SPRÅKLIGE MINORITETER MED KORT BOTID I NORGE - VIDEREGÅENDE OPPLÆRING - (NOR09-04 )"/>
+    <lareplanurl>https://www.udir.no/lk20/NOR08-02</lareplanurl>
+    <fag navn="MORSMÅL FOR SPRÅKLIGE MINORITETER - (NOR08-02 )"/>
+</lareplan>
