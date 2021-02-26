@@ -66,6 +66,7 @@ result.each do |laereplan|
 	   myputs "Har ikke krav til digitale ferdigheter."
 	end
 	puts "\n"
+	break
   
 end
 
