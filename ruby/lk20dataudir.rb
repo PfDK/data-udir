@@ -98,7 +98,7 @@ result.each do |laereplan|
 		gfdFound = false
 		gf.each do |gfd|
 			gfdo = gfd["overskrift"]["tekst"][0]["verdi"]
-			if gfdo == "Digitale ferdigheter"	   
+			if gfdo.include? "Digi"	   
 				gfdFound = true
 				gfdb = gfd["beskrivelse"]["tekst"][0]["verdi"]
 				dfm[$BESKRIVELSE] = gfdb
