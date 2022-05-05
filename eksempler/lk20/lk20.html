@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Læreplaner Lk20</h1>
+
+<div id="lk20"></div>
+
+<script>
+var query    = (function(){ /*
+PREFIX u: <http://psi.udir.no/ontologi/kl06/>
+PREFIX d: <http://psi.udir.no/kl06/>
+select ?lpJson ?kmJson ?kmTittel where {
+    ?km a u:kompetansemaal_lk20 ;
+       u:tittel ?kmTittel ;
+       u:url-data ?kmJson ;
+       u:tilhoerer-laereplan ?lp ;
+       u:tilknyttede-grunnleggende-ferdigheter ?grf .
+       FILTER (lang(?kmTittel) = "default")
+       FILTER (REGEX(str(?grf), "GF5", "i"))
+    ?lp u:url-data ?lpJson
+} ORDER BY ?lp ?km
+*/}).toString().split('\n').slice(1, -1).join('\n');    
+console.log(query);
+
+var baseURL="https://data.udir.no/kl06/sparql";
+var	format="application/json";
+var debug="on";
+var timeout="0"
+
+var params={
+    "query": query,
+    "debug": debug, 
+    "timeout": timeout, 
+    "format": format
+};
+
+var querypart="";
+for(var k in params) {
+    querypart+=k+"="+encodeURIComponent(params[k])+"&";
+}
+var queryURL=baseURL + '?' + querypart;
+
+console.log(queryURL);
+
+fetch(queryURL, {mode: 'no-cors'})
+  .then(function(response) {
+      console.log(response);
+//      var lk20 = document.getElementById("lk20");
+//      lk20.innerHTML=data;
+  })
+  
+</script>
+
+</body>
+</html> 

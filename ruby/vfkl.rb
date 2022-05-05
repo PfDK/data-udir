@@ -117,19 +117,19 @@ def HandleLp(alle, lpInnhold, opplaeringsnivaa, fagtype, opplaeringsfagLaereplan
     print "."
 end
 
-def outputFagomraade(navn, fagomraade)
+def outputFagomraade(o, navn, fagomraade)
     o = []
     fagomraade.each do |k, v|   
         o.push(createCodeObject("#{k}, #{v}", "#{k} (#{v})"))
     end       
-    output(navn, o)
+#    output(navn, o)
+    return o;
 end
 
 def outputUtdanningsprogram(navn, utdanningsprogram)
     o = []
     utdanningsprogram.each do |k, v|   
-        o.push(createCodeObject(k,k))
-        outputFagomraade("#{navn}#{k}", v)
+        o.concat outputFagomraade(o, "#{navn}#{k}", v)
     end       
     output(navn, o)
 end
@@ -152,11 +152,19 @@ def outputProgramomraader(navn, programomraader)
     output(navn, o)
 end
 
+def outputGrunnskoleFagomraade(navn, fagomraade)
+        o = []
+        fagomraade.each do |k, v|   
+            o.push(createCodeObject("#{k}, #{v}", "#{k} (#{v})"))
+        end       
+        output(navn, o)
+    end
+    
 def outputGrunnskole(navn, grunnskole)
     o = []
     grunnskole.each do |k, v|   
         o.push(createCodeObject(k,k))
-        outputFagomraade("#{navn}#{k}", v)
+        outputGrunnskoleFagomraade("#{navn}#{k}", v)
     end
     output(navn, o)
 end
