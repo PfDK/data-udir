@@ -18,8 +18,6 @@ def getJsonFromUrl(url, kode)
     begin
         buffer = open(fileName).read
     rescue
-#        puts "Local file #{kode} not found"
-#        puts "Open " + url
         buffer = open(url).read
         open(fileName, 'wb') do |file|
             file << buffer
@@ -67,32 +65,11 @@ def HandleProgramOmraader(alle, lpInnhold, opplaeringsnivaa, fagtype, opplaering
             end
 
             alle[opplaeringsnivaa][typeUtdanningsProgram][utdanningsProgramTittel][fagtype][opplaeringsfagLaereplanTittel] = opplaeringsfagLaereplanKode
- #           alleSorted = alle[opplaeringsnivaa][typeUtdanningsProgram][utdanningsProgramTittel][fagtype].sort_by {|k, v| v}.to_h
-#            alle[opplaeringsnivaa][typeUtdanningsProgram][utdanningsProgramTittel][fagtype] = alleSorted
-
-
         end
     end 
 end
 
 def HandleLp(alle, lpInnhold, opplaeringsnivaa, fagtype, opplaeringsfagLaereplanKode, opplaeringsfagLaereplanTittel, opplaeringsfagLaereplanUrl)
-#                if(gyldigfra)
-#                    opplaeringsfagLaereplanTittel << " Gyldig fra " + gyldigfra
-#                end
-#                if(gyldigtil)
-#                    opplaeringsfagLaereplanTittel << " Gyldig til" + gyldigtil
-#                end
-#                lp = getJsonFromUrl(opplaeringsfagLaereplanUrl, opplaeringsfagLaereplanKode)
-
-
-#                if(!lp["kortform"])
-#                    puts lp["url-data"]
-#                    next
-#                end
-    #puts lp["kortform"][0]["verdi"]
-    #puts "HALLO"
-
-    #                opplaeringsfagLaereplanTittel = lp["kortform"][0]["verdi"] + " (" + opplaeringsfagLaereplanKode + ")"
     lpProcessed = {}
 
     if(lpInnhold['programomraader-referanse'].length > 0) 
@@ -105,14 +82,6 @@ def HandleLp(alle, lpInnhold, opplaeringsnivaa, fagtype, opplaeringsfagLaereplan
             alle[opplaeringsnivaa][fagtype] = {}
         end
         alle[opplaeringsnivaa][fagtype][opplaeringsfagLaereplanTittel] = opplaeringsfagLaereplanKode
-#        alleSorted = alle[opplaeringsnivaa][fagtype].sort_by {|k, v| v}.to_h
- #       alle[opplaeringsnivaa][fagtype] = alleSorted
-
-#        if(!lpProcessed[opplaeringsfagLaereplanUrl])
-#            lpProcessed[opplaeringsfagLaereplanUrl] = true
-
-#            alle[opplaeringsnivaa][opplaeringsfagLaereplanTittel] = opplaeringsfagLaereplanKode
-#        end
     end
     print "."
 end
@@ -122,6 +91,7 @@ def outputFagomraade(o, navn, fagomraade)
     fagomraade.each do |k, v|   
         o.push(createCodeObject("#{k}, #{v}", "#{k} (#{v})"))
     end       
+    #Uncomment this line if you want separate json files for each fagområde.
 #    output(navn, o)
     return o;
 end
@@ -224,14 +194,9 @@ result.each do |fag|
     end
 end
 
-
+#These two lines can be replaced by API responses.
 outputGrunnskole("Grunnskole", alle["opplaeringsnivaa_grunnskole"])
 outputProgramomraader("Videregaaende", alle["opplaeringsnivaa_videregaaende"])
-#    outputProgramomraade(programomraade)
-#    programomraade.each do |program|
-#        outputProgram(program)
-#    end
-#end
 
 open("grepManglerData.json", 'wb') do |file|
     file << manglerData.to_json
