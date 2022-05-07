@@ -69,11 +69,11 @@ def HandleProgramOmraader(alle, lpInnhold, opplaeringsnivaa, fagtype, opplaering
     end 
 end
 
-def HandleLp(alle, lpInnhold, opplaeringsnivaa, fagtype, opplaeringsfagLaereplanKode, opplaeringsfagLaereplanTittel, opplaeringsfagLaereplanUrl)
+def HandleOpplaeringsFagInnhold(alle, opplaeringsFagInnhold, opplaeringsnivaa, fagtype, opplaeringsfagLaereplanKode, opplaeringsfagLaereplanTittel, opplaeringsfagLaereplanUrl)
     lpProcessed = {}
 
-    if(lpInnhold['programomraader-referanse'].length > 0) 
-        HandleProgramOmraader(alle, lpInnhold, opplaeringsnivaa, fagtype, opplaeringsfagLaereplanKode, opplaeringsfagLaereplanTittel, opplaeringsfagLaereplanUrl)
+    if(opplaeringsFagInnhold['programomraader-referanse'].length > 0) 
+        HandleProgramOmraader(alle, opplaeringsFagInnhold, opplaeringsnivaa, fagtype, opplaeringsfagLaereplanKode, opplaeringsfagLaereplanTittel, opplaeringsfagLaereplanUrl)
     else
         if(opplaeringsnivaa.include? "videregaaende")
             puts "Videregående fag mangler programområde #{opplaeringsfagLaereplanKode} nivå:#{opplaeringsnivaa}"
@@ -89,7 +89,7 @@ end
 def outputFagomraade(o, navn, fagomraade)
     o = []
     fagomraade.each do |k, v|   
-        o.push(createCodeObject("#{k}, #{v}", "#{k} (#{v})"))
+        o.push(createCodeObject("#{k}; #{v}", "#{k} (#{v})"))
     end       
     #Uncomment this line if you want separate json files for each fagområde.
 #    output(navn, o)
@@ -125,7 +125,7 @@ end
 def outputGrunnskoleFagomraade(navn, fagomraade)
         o = []
         fagomraade.each do |k, v|   
-            o.push(createCodeObject("#{k}, #{v}", "#{k} (#{v})"))
+            o.push(createCodeObject("#{k}; #{v}", "#{k} (#{v})"))
         end       
         output(navn, o)
     end
@@ -156,18 +156,33 @@ result = getJsonFromUrl('https://data.udir.no/kl06/v201906/opplaeringsfag.json',
 
 result.each do |fag|
     if(!fag['status'].include? "utgaatt")
-        lpInnhold = getJsonFromUrl(fag["url-data"], fag["kode"])
+        opplaeringsFagInnhold = getJsonFromUrl(fag["url-data"], fag["kode"])
 
-
-        opplaeringsfag = lpInnhold["tittel"][0]["verdi"]
-        opplaeringsnivaa = lpInnhold["opplaeringsnivaa"]["kode"]
-        fagtype = lpInnhold["fagtype"]["tittel"]
+        opplaeringsfag = opplaeringsFagInnhold["tittel"][0]["verdi"]
+        opplaeringsnivaa = opplaeringsFagInnhold["opplaeringsnivaa"]["kode"]
+        fagtype = opplaeringsFagInnhold["fagtype"]["tittel"]
 
         if(!alle[opplaeringsnivaa]) 
             alle[opplaeringsnivaa] = {}
         end
 
-        lpInnhold["laereplan-referanse"].each do |laereplanreferanse|        
+        opplaeringsFagInnhold["laereplan-referanse"].each do |laereplanreferanse|        
+            opplaeringsfagLaereplanUrl = laereplanreferanse["url-data"]
+            opplaeringsfagLaereplanKode = laereplanreferanse["kode"]
+
+            laereplanInnhold = getJsonFromUrl(opplaeringsfagLaereplanUrl, "#{opplaeringsfagLaereplanKode}.json")
+#            puts opplaeringsfagLaereplanUrl
+            gyldigLaereplan = false
+            gyldigtil = laereplanInnhold["gyldighetsperiode"]["gyldig-til"]["dato"]
+#            puts gyldigtil
+            if(!gyldigtil)
+                gyldigLaereplan = true
+            elsif (gyldigtil > "2022-04-10T00:00:00") 
+                gyldigLaereplan = true
+            else 
+                puts "Utgått på dato:#{opplaeringsfagLaereplanUrl}"
+            end
+
             opplaeringsfagLaereplanKode = laereplanreferanse["kode"]
             opplaeringsfagLaereplanTittel = laereplanreferanse["tittel"]
             opplaeringsfagLaereplanTittel.sub!("Læreplan i ", "")
@@ -175,20 +190,9 @@ result.each do |fag|
             letters = opplaeringsfagLaereplanTittel.split('')
             letters.first.upcase!
             opplaeringsfagLaereplanTittel = letters.join # + " (" + opplaeringsfagLaereplanKode + ")"
-            
-            opplaeringsfagLaereplanUrl = laereplanreferanse["url-data"]
-
-            gyldigLaereplan = false
-            gyldigtil = laereplanreferanse["gyldighet"]["gyldig-til"]
-            if(!gyldigtil)
-                gyldigLaereplan = true
-            elsif (gyldigtil > "2022-04-10T00:00:00") 
-                gyldigLaereplan = true
-            end
-            gyldigfra = laereplanreferanse["gyldighet"]["gyldig-fra"]
 
             if(gyldigLaereplan)
-                HandleLp(alle, lpInnhold, opplaeringsnivaa, fagtype, opplaeringsfagLaereplanKode, opplaeringsfagLaereplanTittel, opplaeringsfagLaereplanUrl)
+                HandleOpplaeringsFagInnhold(alle, opplaeringsFagInnhold, opplaeringsnivaa, fagtype, opplaeringsfagLaereplanKode, opplaeringsfagLaereplanTittel, opplaeringsfagLaereplanUrl)
             end
         end
     end
