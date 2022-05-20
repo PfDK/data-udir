@@ -177,7 +177,7 @@ result.each do |fag|
 #            puts gyldigtil
             if(!gyldigtil)
                 gyldigLaereplan = true
-            elsif (gyldigtil > "2022-04-10T00:00:00") 
+            elsif (gyldigtil > "2022-08-01T00:00:00") 
                 gyldigLaereplan = true
             else 
                 puts "Utgått på dato:#{opplaeringsfagLaereplanUrl}"
