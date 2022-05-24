@@ -100,10 +100,10 @@ var GrepAPI = (function() {
         //callback funksjonen når resultatet er klart.
         sparqlQuery : function (query, callback)
         {
-            var baseURL="http://23.102.42.94:7200/repositories/201906?query=";
+            var baseURL="https://sparql-data.udir.no/repositories/201906?query=";
 
-            
             var encodedQuery = encodeURIComponent(query);
+            console.log(encodedQuery);
 
             $.ajax({
                 beforeSend: function(request) {
@@ -113,6 +113,7 @@ var GrepAPI = (function() {
                 url: baseURL + encodedQuery,
                 success: function(data) {
                     console.log(data);
+                    callback(data);
                 }
             });
         },
